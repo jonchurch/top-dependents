@@ -4,7 +4,7 @@ This project ranks npm packages that **directly depend on [Express](https://npmj
 
 ### **How we got this data**
 
-1. Queried the **Google BigQuery public dataset** [`bigquery-public-data.deps_dev_v1`](https://deps.dev) to get a complete list of packages that directly depend on `express`.
+1. Queried the **Google BigQuery public dataset** [`bigquery-public-data.deps_dev_v1`](https://deps.dev) to get a complete (ish? npm says 90k, this returned 70k) list of packages that directly depend on `express`.
 
    ```sql
    SELECT DISTINCT Dependent.Name AS package_name
