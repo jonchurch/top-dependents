@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "webpack-dev-server",
+    "downloads": 69096964
+  },
+  {
+    "name": "@modelcontextprotocol/sdk",
+    "downloads": 18436580
+  },
+  {
+    "name": "@nestjs/platform-express",
+    "downloads": 16632993
+  },
+  {
+    "name": "@flmngr/flmngr-server-node-express",
+    "downloads": 7836963
+  },
+  {
+    "name": "@storybook/manager-webpack4",
+    "downloads": 5751017
+  },
+  {
+    "name": "express-joi-validations",
+    "downloads": 5449974
+  },
+  {
+    "name": "@google-cloud/functions-framework",
+    "downloads": 3863030
+  },
+  {
+    "name": "@nx/react",
+    "downloads": 3601415
+  },
+  {
+    "name": "@nx/module-federation",
+    "downloads": 3429519
+  },
+  {
+    "name": "@storybook/manager-webpack5",
+    "downloads": 3229340
+  },
+  {
+    "name": "netlify",
+    "downloads": 3102482
+  },
+  {
+    "name": "firebase-tools",
+    "downloads": 2826053
+  },
+  {
+    "name": "firebase-functions",
+    "downloads": 2732164
+  },
+  {
+    "name": "servify",
+    "downloads": 2451148
+  },
+  {
+    "name": "@slack/bolt",
+    "downloads": 2364233
+  },
+  {
+    "name": "@appium/base-driver",
+    "downloads": 1881197
+  },
+  {
+    "name": "testem",
+    "downloads": 1682463
+  },
+  {
+    "name": "@bull-board/express",
+    "downloads": 1511589
+  },
+  {
+    "name": "ember-cli",
+    "downloads": 1442954
+  },
+  {
+    "name": "gatsby",
+    "downloads": 1425971
+  },
+  {
+    "name": "@lhci/cli",
+    "downloads": 1419841
+  },
+  {
+    "name": "@remix-run/dev",
+    "downloads": 1408966
+  },
+  {
+    "name": "json-server",
+    "downloads": 1367309
+  },
+  {
+    "name": "telecom-mas-agent",
+    "downloads": 1360922
+  },
+  {
+    "name": "@flmngr/flmngr-server-node",
+    "downloads": 1334717
+  },
+  {
+    "name": "verdaccio",
+    "downloads": 1317652
+  },
+  {
+    "name": "verdaccio-audit",
+    "downloads": 1313351
+  },
+  {
+    "name": "testcafe",
+    "downloads": 1239101
+  },
+  {
+    "name": "azurite",
+    "downloads": 1206882
+  },
+  {
+    "name": "@nx/rspack",
+    "downloads": 1187316
+  },
+  {
+    "name": "apollo-server",
+    "downloads": 1096714
+  },
+  {
+    "name": "@backstage/plugin-auth-node",
+    "downloads": 1004549
+  },
+  {
+    "name": "@tsoa/runtime",
+    "downloads": 980365
+  },
+  {
+    "name": "@remix-run/serve",
+    "downloads": 957331
+  },
+  {
+    "name": "@pact-foundation/pact",
+    "downloads": 922344
+  },
+  {
+    "name": "mockttp",
+    "downloads": 844225
+  },
+  {
+    "name": "@backstage/plugin-permission-node",
+    "downloads": 827569
+  },
+  {
+    "name": "@react-router/serve",
+    "downloads": 823601
+  },
+  {
+    "name": "netlify-cli",
+    "downloads": 795169
+  },
+  {
+    "name": "@genkit-ai/core",
+    "downloads": 751727
+  },
+  {
+    "name": "@backstage/backend-defaults",
+    "downloads": 725115
+  },
+  {
+    "name": "@smithery/cli",
+    "downloads": 711331
+  },
+  {
+    "name": "@netlify/content-engine",
+    "downloads": 692834
+  },
+  {
+    "name": "@nosana/cli",
+    "downloads": 691327
+  },
+  {
+    "name": "@ui5/server",
+    "downloads": 687591
+  },
+  {
+    "name": "@forge/tunnel",
+    "downloads": 685260
+  },
+  {
+    "name": "@backstage/backend-common",
+    "downloads": 673613
+  },
+  {
+    "name": "@mswjs/http-middleware",
+    "downloads": 590754
+  },
+  {
+    "name": "@sap/cds-dk",
+    "downloads": 576000
+  },
+  {
+    "name": "@expressots/adapter-express",
+    "downloads": 575415
+  },
+  {
+    "name": "@smithery/sdk",
+    "downloads": 570883
+  },
+  {
+    "name": "@backstage/plugin-events-node",
+    "downloads": 566967
+  },
+  {
+    "name": "@pollyjs/node-server",
+    "downloads": 556718
+  },
+  {
+    "name": "braintrust",
+    "downloads": 553977
+  },
+  {
+    "name": "@genkit-ai/tools-common",
+    "downloads": 480050
+  },
+  {
+    "name": "@genkit-ai/telemetry-server",
+    "downloads": 478017
+  },
+  {
+    "name": "maildev",
+    "downloads": 449263
+  },
+  {
+    "name": "sentry-testkit",
+    "downloads": 444062
+  },
+  {
+    "name": "gatsby-recipes",
+    "downloads": 416621
+  },
+  {
+    "name": "content-engine",
+    "downloads": 380576
+  },
+  {
+    "name": "@backstage/plugin-techdocs-node",
+    "downloads": 378219
+  },
+  {
+    "name": "appium-base-driver",
+    "downloads": 374771
+  },
+  {
+    "name": "@quasar/app-vite",
+    "downloads": 372475
+  },
+  {
+    "name": "@mongodb-js/oidc-plugin",
+    "downloads": 372159
+  },
+  {
+    "name": "@stackbit/dev",
+    "downloads": 364560
+  },
+  {
+    "name": "@stackbit/dev-common",
+    "downloads": 363715
+  },
+  {
+    "name": "momentic",
+    "downloads": 348545
+  },
+  {
+    "name": "xdl",
+    "downloads": 325682
+  },
+  {
+    "name": "@backstage/backend-openapi-utils",
+    "downloads": 304947
+  },
+  {
+    "name": "@backstage/plugin-catalog-backend",
+    "downloads": 301285
+  },
+  {
+    "name": "cypress-image-diff-html-report",
+    "downloads": 300848
+  },
+  {
+    "name": "@backstage/cli",
+    "downloads": 296603
+  },
+  {
+    "name": "routing-controllers",
+    "downloads": 286767
+  },
+  {
+    "name": "@opennextjs/aws",
+    "downloads": 285687
+  },
+  {
+    "name": "@backstage/plugin-auth-backend",
+    "downloads": 278859
+  },
+  {
+    "name": "@electron-forge/web-multi-logger",
+    "downloads": 275467
+  },
+  {
+    "name": "@vue/cli-ui",
+    "downloads": 269505
+  },
+  {
+    "name": "apollo-server-lambda",
+    "downloads": 257071
+  },
+  {
+    "name": "@backstage/plugin-scaffolder-backend",
+    "downloads": 256949
+  },
+  {
+    "name": "@backstage/plugin-search-backend",
+    "downloads": 244430
+  },
+  {
+    "name": "@slack/events-api",
+    "downloads": 239723
+  },
+  {
+    "name": "mcp-remote",
+    "downloads": 238614
+  },
+  {
+    "name": "jsoneditor-standalone",
+    "downloads": 235697
+  },
+  {
+    "name": "intern",
+    "downloads": 229468
+  },
+  {
+    "name": "@backstage/plugin-techdocs-backend",
+    "downloads": 229264
+  },
+  {
+    "name": "@sap/ux-ui5-tooling",
+    "downloads": 227993
+  },
+  {
+    "name": "@backstage/plugin-app-backend",
+    "downloads": 227391
+  },
+  {
+    "name": "@backstage/plugin-permission-backend",
+    "downloads": 226805
+  },
+  {
+    "name": "@backstage/plugin-app-node",
+    "downloads": 226629
+  },
+  {
+    "name": "probot",
+    "downloads": 222466
+  },
+  {
+    "name": "parse-server",
+    "downloads": 220725
+  },
+  {
+    "name": "yuidocjs",
+    "downloads": 216777
+  },
+  {
+    "name": "ember-cli-code-coverage",
+    "downloads": 214756
+  },
+  {
+    "name": "@microsoft/teamsapp-cli",
+    "downloads": 211984
+  },
+  {
+    "name": "n8n",
+    "downloads": 209054
+  },
+  {
+    "name": "hubot",
+    "downloads": 205643
+  },
+  {
+    "name": "@loopback/rest",
+    "downloads": 205491
+  },
+  {
+    "name": "amplify-storage-simulator",
+    "downloads": 203390
+  },
+  {
+    "name": "super-simple-web-server",
+    "downloads": 203230
+  },
+  {
+    "name": "cordova-serve",
+    "downloads": 201598
+  },
+  {
+    "name": "@nguniversal/builders",
+    "downloads": 198766
+  },
+  {
+    "name": "@mintlify/previewing",
+    "downloads": 197969
+  },
+  {
+    "name": "sumor",
+    "downloads": 197401
+  },
+  {
+    "name": "@umijs/bundler-mako",
+    "downloads": 196295
+  },
+  {
+    "name": "@loopback/express",
+    "downloads": 194697
+  },
+  {
+    "name": "@backstage/backend-test-utils",
+    "downloads": 193505
+  },
+  {
+    "name": "xunit-viewer",
+    "downloads": 192839
+  },
+  {
+    "name": "karma-ui5",
+    "downloads": 191635
+  },
+  {
+    "name": "@fastify/express",
+    "downloads": 186370
+  },
+  {
+    "name": "expo-atlas",
+    "downloads": 184973
+  },
+  {
+    "name": "@medusajs/medusa",
+    "downloads": 183964
+  },
+  {
+    "name": "@loopback/testlab",
+    "downloads": 181359
+  },
+  {
+    "name": "@modelcontextprotocol/inspector-server",
+    "downloads": 174425
+  },
+  {
+    "name": "@quasar/cli",
+    "downloads": 172700
+  },
+  {
+    "name": "@sitecore-jss/sitecore-jss-dev-tools",
+    "downloads": 171898
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-microsoft-provider",
+    "downloads": 162554
+  },
+  {
+    "name": "task-master-ai",
+    "downloads": 160777
+  },
+  {
+    "name": "promptfoo",
+    "downloads": 160249
+  },
+  {
+    "name": "@api-ts/typed-express-router",
+    "downloads": 160152
+  },
+  {
+    "name": "@uppy/companion",
+    "downloads": 157837
+  },
+  {
+    "name": "bull-arena",
+    "downloads": 157131
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-okta-provider",
+    "downloads": 155018
+  },
+  {
+    "name": "@feathersjs/express",
+    "downloads": 154527
+  },
+  {
+    "name": "@electron-forge/plugin-webpack",
+    "downloads": 154505
+  },
+  {
+    "name": "@backstage/plugin-kubernetes-backend",
+    "downloads": 154013
+  },
+  {
+    "name": "@aws-amplify/amplify-appsync-simulator",
+    "downloads": 150710
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-gitlab-provider",
+    "downloads": 148337
+  },
+  {
+    "name": "vitest-preview",
+    "downloads": 146261
+  },
+  {
+    "name": "tailwind",
+    "downloads": 143380
+  },
+  {
+    "name": "@medusajs/cli",
+    "downloads": 139629
+  },
+  {
+    "name": "@medusajs/framework",
+    "downloads": 138611
+  },
+  {
+    "name": "mountebank",
+    "downloads": 137685
+  },
+  {
+    "name": "start-slicemachine",
+    "downloads": 137343
+  },
+  {
+    "name": "@dapr/dapr",
+    "downloads": 135960
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-oidc-provider",
+    "downloads": 135497
+  },
+  {
+    "name": "@mockoon/commons-server",
+    "downloads": 135476
+  },
+  {
+    "name": "@backstage/plugin-signals-node",
+    "downloads": 133225
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-atlassian-provider",
+    "downloads": 132667
+  },
+  {
+    "name": "@backstage/plugin-events-backend",
+    "downloads": 127818
+  },
+  {
+    "name": "@node-red/runtime",
+    "downloads": 125928
+  },
+  {
+    "name": "@airtable/blocks-cli",
+    "downloads": 125214
+  },
+  {
+    "name": "@node-red/editor-api",
+    "downloads": 125159
+  },
+  {
+    "name": "iframely",
+    "downloads": 124822
+  },
+  {
+    "name": "@cig-platform/types",
+    "downloads": 124196
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-bitbucket-provider",
+    "downloads": 122999
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-cloudflare-access-provider",
+    "downloads": 122141
+  },
+  {
+    "name": "node-red",
+    "downloads": 120866
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-azure-easyauth-provider",
+    "downloads": 120638
+  },
+  {
+    "name": "dynamodb-admin",
+    "downloads": 120509
+  },
+  {
+    "name": "@refinedev/devtools-server",
+    "downloads": 119600
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-onelogin-provider",
+    "downloads": 119537
+  },
+  {
+    "name": "@sap/hrtt-core-vscode",
+    "downloads": 118568
+  },
+  {
+    "name": "bull-board",
+    "downloads": 117551
+  },
+  {
+    "name": "jasmine-browser-runner",
+    "downloads": 116008
+  },
+  {
+    "name": "elevate-mentoring",
+    "downloads": 111567
+  },
+  {
+    "name": "https-localhost",
+    "downloads": 110589
+  },
+  {
+    "name": "@openai/codex",
+    "downloads": 110388
+  },
+  {
+    "name": "sails",
+    "downloads": 109554
+  },
+  {
+    "name": "@kie/mock-github",
+    "downloads": 108558
+  },
+  {
+    "name": "speccy",
+    "downloads": 108060
+  },
+  {
+    "name": "kue",
+    "downloads": 107900
+  },
+  {
+    "name": "@microsoft/teamsfx-cli",
+    "downloads": 104695
+  },
+  {
+    "name": "@netlify/plugin-lighthouse",
+    "downloads": 104429
+  },
+  {
+    "name": "@copilotkit/runtime",
+    "downloads": 104142
+  },
+  {
+    "name": "supergateway",
+    "downloads": 103026
+  },
+  {
+    "name": "strong-remoting",
+    "downloads": 102508
+  },
+  {
+    "name": "figma-developer-mcp",
+    "downloads": 101829
+  },
+  {
+    "name": "express-jsdoc-swagger",
+    "downloads": 101364
+  },
+  {
+    "name": "@medusajs/admin-bundler",
+    "downloads": 101193
+  },
+  {
+    "name": "amplify-appsync-simulator",
+    "downloads": 100212
+  },
+  {
+    "name": "@backstage/plugin-auth-backend-module-auth0-provider",
+    "downloads": 100191
+  },
+  {
+    "name": "loopback",
+    "downloads": 98653
+  },
+  {
+    "name": "oauth2-mock-server",
+    "downloads": 98470
+  },
+  {
+    "name": "@shopify/app",
+    "downloads": 98278
+  },
+  {
+    "name": "vue-cli-plugin-apollo",
+    "downloads": 97111
+  },
+  {
+    "name": "agendash",
+    "downloads": 96365
+  },
+  {
+    "name": "webpack-monitor",
+    "downloads": 95799
+  },
+  {
+    "name": "@mocks-server/core",
+    "downloads": 94944
+  },
+  {
+    "name": "@maizzle/framework",
+    "downloads": 94632
+  },
+  {
+    "name": "@kie/act-js",
+    "downloads": 94306
+  },
+  {
+    "name": "@mocks-server/plugin-admin-api",
+    "downloads": 93398
+  },
+  {
+    "name": "local-cors-proxy",
+    "downloads": 90824
+  },
+  {
+    "name": "@luminati-io/luminati-proxy",
+    "downloads": 85961
+  },
+  {
+    "name": "laravel-echo-server",
+    "downloads": 85683
+  },
+  {
+    "name": "@medusajs/test-utils",
+    "downloads": 85570
+  },
+  {
+    "name": "weinre",
+    "downloads": 82903
+  },
+  {
+    "name": "aws-ses-v2-local",
+    "downloads": 81731
+  },
+  {
+    "name": "next-remote-watch",
+    "downloads": 79753
+  },
+  {
+    "name": "airtap",
+    "downloads": 78848
+  },
+  {
+    "name": "@vue-storefront/middleware",
+    "downloads": 78558
+  },
+  {
+    "name": "@builder.io/dev-tools",
+    "downloads": 78295
+  },
+  {
+    "name": "docusaurus",
+    "downloads": 78197
+  },
+  {
+    "name": "@codeceptjs/ui",
+    "downloads": 73045
+  },
+  {
+    "name": "@wdio/static-server-service",
+    "downloads": 72454
+  },
+  {
+    "name": "peer",
+    "downloads": 72069
+  },
+  {
+    "name": "@quasar/app-webpack",
+    "downloads": 71278
+  },
+  {
+    "name": "firecrawl-mcp",
+    "downloads": 70746
+  },
+  {
+    "name": "@flatfile/adapter",
+    "downloads": 69815
+  },
+  {
+    "name": "graphqurl",
+    "downloads": 69555
+  },
+  {
+    "name": "react-snap",
+    "downloads": 69390
+  },
+  {
+    "name": "serverless-offline-sns",
+    "downloads": 68746
+  },
+  {
+    "name": "@unleash/proxy",
+    "downloads": 68435
+  },
+  {
+    "name": "@expo/dev-tools",
+    "downloads": 67337
+  },
+  {
+    "name": "@genkit-ai/flow",
+    "downloads": 66404
+  },
+  {
+    "name": "json-graphql-server",
+    "downloads": 66275
+  },
+  {
+    "name": "react-cosmos",
+    "downloads": 65964
+  },
+  {
+    "name": "@metamask/test-bundler",
+    "downloads": 65876
+  },
+  {
+    "name": "mcp-hello-world",
+    "downloads": 65809
+  },
+  {
+    "name": "@testim/testim-cli",
+    "downloads": 65615
+  },
+  {
+    "name": "@cubejs-backend/api-gateway",
+    "downloads": 64352
+  },
+  {
+    "name": "@redhat-cloud-services/frontend-components-config",
+    "downloads": 64323
+  },
+  {
+    "name": "mcp-evals",
+    "downloads": 63764
+  },
+  {
+    "name": "@backstage/plugin-devtools-backend",
+    "downloads": 63737
+  },
+  {
+    "name": "@microsoft/m365agentstoolkit-cli",
+    "downloads": 62659
+  },
+  {
+    "name": "cognito-local",
+    "downloads": 62256
+  },
+  {
+    "name": "@backstage/plugin-notifications-backend",
+    "downloads": 61947
+  },
+  {
+    "name": "express-as-promise",
+    "downloads": 61761
+  },
+  {
+    "name": "@latitude-data/supergateway",
+    "downloads": 61353
+  },
+  {
+    "name": "@hubspot/local-dev-lib",
+    "downloads": 59675
+  },
+  {
+    "name": "@percy/agent",
+    "downloads": 58268
+  },
+  {
+    "name": "@dojo/webpack-contrib",
+    "downloads": 58243
+  },
+  {
+    "name": "arcjet",
+    "downloads": 58170
+  },
+  {
+    "name": "@backstage/plugin-signals-backend",
+    "downloads": 58034
+  },
+  {
+    "name": "tomahawk",
+    "downloads": 56809
+  },
+  {
+    "name": "flowise",
+    "downloads": 55857
+  },
+  {
+    "name": "@vercel/remix-run-dev",
+    "downloads": 55652
+  },
+  {
+    "name": "altair-express-middleware",
+    "downloads": 55206
+  },
+  {
+    "name": "netlify-lambda",
+    "downloads": 55170
+  },
+  {
+    "name": "@microsoft/spfx-heft-plugins",
+    "downloads": 55087
+  },
+  {
+    "name": "@backstage-community/plugin-sonarqube-backend",
+    "downloads": 53128
+  },
+  {
+    "name": "homebridge-enphase-envoy",
+    "downloads": 52942
+  },
+  {
+    "name": "mocker-api",
+    "downloads": 52809
+  },
+  {
+    "name": "@quasar/app",
+    "downloads": 52642
+  },
+  {
+    "name": "@theia/core",
+    "downloads": 52552
+  },
+  {
+    "name": "node-red-node-test-helper",
+    "downloads": 51984
+  },
+  {
+    "name": "rijs.sync",
+    "downloads": 50360
+  },
+  {
+    "name": "xrs",
+    "downloads": 50312
+  },
+  {
+    "name": "rijs.serve",
+    "downloads": 50271
+  },
+  {
+    "name": "@itwin/certa",
+    "downloads": 49892
+  },
+  {
+    "name": "flowise-components",
+    "downloads": 49775
+  },
+  {
+    "name": "@ionic/lab",
+    "downloads": 49748
+  },
+  {
+    "name": "@microsoft/gulp-core-build-serve",
+    "downloads": 49242
+  },
+  {
+    "name": "rijs.pages",
+    "downloads": 48399
+  },
+  {
+    "name": "@cig-platform/core",
+    "downloads": 48036
+  },
+  {
+    "name": "serverless-offline-aws-eventbridge",
+    "downloads": 47614
+  },
+  {
+    "name": "@cig-platform/docs",
+    "downloads": 47536
+  },
+  {
+    "name": "@prisma/studio-server",
+    "downloads": 47364
+  },
+  {
+    "name": "@tamagui/cli",
+    "downloads": 47358
+  },
+  {
+    "name": "@cap-js-community/odata-v2-adapter",
+    "downloads": 47240
+  },
+  {
+    "name": "saml-idp",
+    "downloads": 46719
+  },
+  {
+    "name": "ssl-express-www",
+    "downloads": 46666
+  },
+  {
+    "name": "@redwoodjs/vite",
+    "downloads": 46022
+  },
+  {
+    "name": "express-oauth-server",
+    "downloads": 45433
+  },
+  {
+    "name": "@evidence-dev/sdk",
+    "downloads": 45183
+  },
+  {
+    "name": "net-browserify",
+    "downloads": 45055
+  },
+  {
+    "name": "@okta/oidc-middleware",
+    "downloads": 44855
+  },
+  {
+    "name": "@vendure/core",
+    "downloads": 44834
+  },
+  {
+    "name": "@yext/pages",
+    "downloads": 44745
+  },
+  {
+    "name": "server",
+    "downloads": 43647
+  },
+  {
+    "name": "botkit",
+    "downloads": 43607
+  },
+  {
+    "name": "@meteora-ag/dlmm",
+    "downloads": 43393
+  },
+  {
+    "name": "@notionhq/notion-mcp-server",
+    "downloads": 42383
+  },
+  {
+    "name": "friendly-words",
+    "downloads": 42328
+  },
+  {
+    "name": "prember",
+    "downloads": 41808
+  },
+  {
+    "name": "@kadira/storybook",
+    "downloads": 41493
+  },
+  {
+    "name": "prisma-docs-generator",
+    "downloads": 41458
+  },
+  {
+    "name": "express-async-router",
+    "downloads": 40887
+  },
+  {
+    "name": "screepsmod-admin-utils-ui",
+    "downloads": 40711
+  },
+  {
+    "name": "express-query-parser",
+    "downloads": 40511
+  },
+  {
+    "name": "screepsmod-auth",
+    "downloads": 40496
+  },
+  {
+    "name": "admin",
+    "downloads": 40420
+  },
+  {
+    "name": "molstar",
+    "downloads": 40323
+  },
+  {
+    "name": "wa_set_pkg",
+    "downloads": 40184
+  },
+  {
+    "name": "@directus/api",
+    "downloads": 40162
+  },
+  {
+    "name": "goldengate",
+    "downloads": 40085
+  },
+  {
+    "name": "prebid.js",
+    "downloads": 39805
+  },
+  {
+    "name": "@edx/frontend-build",
+    "downloads": 39345
+  },
+  {
+    "name": "@modelcontextprotocol/server-everything",
+    "downloads": 39295
+  },
+  {
+    "name": "decentraland",
+    "downloads": 38940
+  },
+  {
+    "name": "@map-colonies/error-types",
+    "downloads": 38908
+  },
+  {
+    "name": "@shopify/shopify-app-express",
+    "downloads": 38904
+  },
+  {
+    "name": "@openedx/frontend-build",
+    "downloads": 38903
+  },
+  {
+    "name": "zmp-cli",
+    "downloads": 38639
+  },
+  {
+    "name": "@umijs/request-record",
+    "downloads": 38262
+  },
+  {
+    "name": "@coral-xyz/xnft-cli",
+    "downloads": 37875
+  },
+  {
+    "name": "@eui/tools",
+    "downloads": 37777
+  },
+  {
+    "name": "pepr",
+    "downloads": 37314
+  },
+  {
+    "name": "umi-serve",
+    "downloads": 37183
+  },
+  {
+    "name": "gscan",
+    "downloads": 36891
+  },
+  {
+    "name": "reqres",
+    "downloads": 36812
+  },
+  {
+    "name": "forest-express",
+    "downloads": 34604
+  },
+  {
+    "name": "express-ping",
+    "downloads": 34053
+  },
+  {
+    "name": "@cubejs-backend/server",
+    "downloads": 33713
+  },
+  {
+    "name": "lingo.dev",
+    "downloads": 33667
+  },
+  {
+    "name": "meshcentral",
+    "downloads": 33610
+  },
+  {
+    "name": "highcharts-export-server",
+    "downloads": 33283
+  },
+  {
+    "name": "kuzdoc",
+    "downloads": 33201
+  },
+  {
+    "name": "gcip-cloud-functions",
+    "downloads": 33094
+  },
+  {
+    "name": "@expo/xdl",
+    "downloads": 33037
+  },
+  {
+    "name": "@thisisagile/easy-express",
+    "downloads": 32999
+  },
+  {
+    "name": "@hmcts/info-provider",
+    "downloads": 32688
+  },
+  {
+    "name": "@prerenderer/prerenderer",
+    "downloads": 32616
+  },
+  {
+    "name": "@roots/bud-support",
+    "downloads": 32382
+  },
+  {
+    "name": "parrot-middleware",
+    "downloads": 32281
+  },
+  {
+    "name": "@hubspot/cli",
+    "downloads": 32071
+  },
+  {
+    "name": "intlayer-editor",
+    "downloads": 31748
+  },
+  {
+    "name": "flowise-embed",
+    "downloads": 31674
+  },
+  {
+    "name": "@dojo/cli-build-widget",
+    "downloads": 31596
+  },
+  {
+    "name": "@php-wasm/node",
+    "downloads": 31430
+  },
+  {
+    "name": "@immobiliarelabs/backstage-plugin-gitlab-backend",
+    "downloads": 31366
+  },
+  {
+    "name": "typescript-rest",
+    "downloads": 31194
+  },
+  {
+    "name": "ghost",
+    "downloads": 31186
+  },
+  {
+    "name": "@dojo/cli-build-app",
+    "downloads": 31118
+  },
+  {
+    "name": "@redux-devtools/cli",
+    "downloads": 30940
+  },
+  {
+    "name": "@backstage-community/plugin-adr-backend",
+    "downloads": 30797
+  },
+  {
+    "name": "@backstage-community/plugin-tech-insights-backend",
+    "downloads": 30722
+  },
+  {
+    "name": "@wp-playground/blueprints",
+    "downloads": 30618
+  },
+  {
+    "name": "hypernova",
+    "downloads": 30258
+  },
+  {
+    "name": "@hubspot/serverless-dev-runtime",
+    "downloads": 29822
+  },
+  {
+    "name": "fastboot-app-server",
+    "downloads": 29783
+  },
+  {
+    "name": "@sanity/ui-workshop",
+    "downloads": 29323
+  },
+  {
+    "name": "@salesforce/pwa-kit-runtime",
+    "downloads": 29321
+  },
+  {
+    "name": "@backstage-community/plugin-jenkins-backend",
+    "downloads": 29139
+  },
+  {
+    "name": "unleash-server",
+    "downloads": 29024
+  },
+  {
+    "name": "mock-json-server",
+    "downloads": 29002
+  },
+  {
+    "name": "piral-cli-webpack5",
+    "downloads": 28849
+  },
+  {
+    "name": "@hubspot/ui-extensions-dev-server",
+    "downloads": 28834
+  },
+  {
+    "name": "@hubspot/app-functions-dev-server",
+    "downloads": 28755
+  },
+  {
+    "name": "@vue-storefront/core",
+    "downloads": 28722
+  },
+  {
+    "name": "apple-auth",
+    "downloads": 28629
+  },
+  {
+    "name": "@vendure/email-plugin",
+    "downloads": 28571
+  },
+  {
+    "name": "mocha-play",
+    "downloads": 28251
+  },
+  {
+    "name": "@baiducloud/qianfan",
+    "downloads": 28235
+  },
+  {
+    "name": "@magda/typescript-common",
+    "downloads": 28096
+  },
+  {
+    "name": "@spotify/backstage-plugin-core-node",
+    "downloads": 27991
+  },
+  {
+    "name": "@hubspot/theme-preview-dev-server",
+    "downloads": 27793
+  },
+  {
+    "name": "@sap/cds-odata-v2-adapter-proxy",
+    "downloads": 27711
+  },
+  {
+    "name": "@wingconsole/app",
+    "downloads": 27420
+  },
+  {
+    "name": "parse-dashboard",
+    "downloads": 27388
+  },
+  {
+    "name": "reqresnext",
+    "downloads": 27126
+  },
+  {
+    "name": "@agentdeskai/browser-tools-mcp",
+    "downloads": 27022
+  },
+  {
+    "name": "@codahq/packs-sdk",
+    "downloads": 26847
+  },
+  {
+    "name": "@pagerduty/backstage-plugin-backend",
+    "downloads": 26820
+  },
+  {
+    "name": "@drodil/backstage-plugin-qeta-backend",
+    "downloads": 26789
+  },
+  {
+    "name": "matrix-appservice",
+    "downloads": 26770
+  },
+  {
+    "name": "@api-ts/express-wrapper",
+    "downloads": 26706
+  },
+  {
+    "name": "windmill-cli",
+    "downloads": 26692
+  },
+  {
+    "name": "feathers",
+    "downloads": 26684
+  },
+  {
+    "name": "node-media-server",
+    "downloads": 26518
+  },
+  {
+    "name": "@frctl/web",
+    "downloads": 26108
+  },
+  {
+    "name": "@stepzen/graphiql-proxy",
+    "downloads": 25762
+  },
+  {
+    "name": "@knapsack/app",
+    "downloads": 25644
+  },
+  {
+    "name": "@keystone-6/core",
+    "downloads": 25628
+  },
+  {
+    "name": "@wp-playground/wordpress",
+    "downloads": 25118
+  },
+  {
+    "name": "stellate",
+    "downloads": 25074
+  },
+  {
+    "name": "@backstage-community/plugin-announcements-backend",
+    "downloads": 24942
+  },
+  {
+    "name": "@rx-angular/import-graph-visualizer",
+    "downloads": 24184
+  },
+  {
+    "name": "polyfill-service",
+    "downloads": 24159
+  },
+  {
+    "name": "dyson",
+    "downloads": 24085
+  },
+  {
+    "name": "prerender",
+    "downloads": 24052
+  },
+  {
+    "name": "@salesforce/pwa-kit-dev",
+    "downloads": 23997
+  },
+  {
+    "name": "fca-priyansh",
+    "downloads": 23952
+  },
+  {
+    "name": "@backstage-community/plugin-azure-devops-backend",
+    "downloads": 23742
+  },
+  {
+    "name": "@blinkk/fileset",
+    "downloads": 23555
+  },
+  {
+    "name": "matrix-appservice-bridge",
+    "downloads": 23474
+  },
+  {
+    "name": "jspurefix",
+    "downloads": 23256
+  },
+  {
+    "name": "@bookshop/browser",
+    "downloads": 23217
+  },
+  {
+    "name": "@lhci/server",
+    "downloads": 23199
+  },
+  {
+    "name": "dpml-prompt",
+    "downloads": 23168
+  },
+  {
+    "name": "@hubspot/cms-dev-server",
+    "downloads": 23066
+  },
+  {
+    "name": "socketio",
+    "downloads": 22945
+  },
+  {
+    "name": "@apify/actors-mcp-server",
+    "downloads": 22834
+  },
+  {
+    "name": "@adobe/aem-cli",
+    "downloads": 22780
+  },
+  {
+    "name": "@nullplatform/llm-gateway",
+    "downloads": 22600
+  },
+  {
+    "name": "@contentstack/cli-launch",
+    "downloads": 22522
+  },
+  {
+    "name": "elm-doc-preview",
+    "downloads": 22496
+  },
+  {
+    "name": "scenario-mock-server",
+    "downloads": 22461
+  },
+  {
+    "name": "@spotify/backstage-plugin-soundcheck-backend",
+    "downloads": 22446
+  },
+  {
+    "name": "@php-wasm/web",
+    "downloads": 22416
+  },
+  {
+    "name": "@controlplane/cli",
+    "downloads": 22322
+  },
+  {
+    "name": "@line/liff-inspector",
+    "downloads": 22219
+  },
+  {
+    "name": "@sanity/tsdoc",
+    "downloads": 22183
+  },
+  {
+    "name": "@php-wasm/fs-journal",
+    "downloads": 22161
+  },
+  {
+    "name": "@line/headless-inspector",
+    "downloads": 22145
+  },
+  {
+    "name": "@webos-tools/cli",
+    "downloads": 21969
+  },
+  {
+    "name": "@wp-playground/storage",
+    "downloads": 21873
+  },
+  {
+    "name": "@zereight/mcp-gitlab",
+    "downloads": 21778
+  },
+  {
+    "name": "@openintegrationhub/ferryman",
+    "downloads": 21758
+  },
+  {
+    "name": "@diva.exchange/divachain",
+    "downloads": 21564
+  },
+  {
+    "name": "istanbul-middleware",
+    "downloads": 21444
+  },
+  {
+    "name": "@sap/sbf",
+    "downloads": 21381
+  },
+  {
+    "name": "little-api",
+    "downloads": 21362
+  },
+  {
+    "name": "gatsby-plugin-perf-budgets",
+    "downloads": 21034
+  },
+  {
+    "name": "@guardian/prebid.js",
+    "downloads": 21019
+  },
+  {
+    "name": "web-component-tester",
+    "downloads": 20964
+  },
+  {
+    "name": "@google-cloud/functions-emulator",
+    "downloads": 20762
+  },
+  {
+    "name": "config-maker",
+    "downloads": 20762
+  },
+  {
+    "name": "hads",
+    "downloads": 20678
+  },
+  {
+    "name": "@elizaos/server",
+    "downloads": 20646
+  },
+  {
+    "name": "polyserve",
+    "downloads": 20571
+  },
+  {
+    "name": "@backstage/plugin-catalog-backend-module-incremental-ingestion",
+    "downloads": 20535
+  },
+  {
+    "name": "@backstage-community/plugin-entity-feedback-backend",
+    "downloads": 20478
+  },
+  {
+    "name": "@backstage-community/plugin-explore-backend",
+    "downloads": 20350
+  },
+  {
+    "name": "@colyseus/monitor",
+    "downloads": 20036
+  },
+  {
+    "name": "@overnightjs/core",
+    "downloads": 19920
+  },
+  {
+    "name": "iobroker.backitup",
+    "downloads": 19851
+  },
+  {
+    "name": "medusa-payment-stripe",
+    "downloads": 19710
+  },
+  {
+    "name": "@guardian/support-dotcom-components",
+    "downloads": 19695
+  },
+  {
+    "name": "@spotify/backstage-plugin-rbac-backend",
+    "downloads": 19568
+  },
+  {
+    "name": "@flowfuse/node-red-dashboard",
+    "downloads": 19292
+  },
+  {
+    "name": "@inngest/agent-kit",
+    "downloads": 19120
+  },
+  {
+    "name": "express-swaggerize-ui",
+    "downloads": 19117
+  },
+  {
+    "name": "@backstage/plugin-user-settings-backend",
+    "downloads": 18965
+  },
+  {
+    "name": "medusa-fulfillment-manual",
+    "downloads": 18716
+  },
+  {
+    "name": "iobroker.admin",
+    "downloads": 18620
+  },
+  {
+    "name": "@brandondunc/typescript-rest",
+    "downloads": 18619
+  },
+  {
+    "name": "flowise-nim-container-manager",
+    "downloads": 18523
+  },
+  {
+    "name": "@vector-im/matrix-bot-sdk",
+    "downloads": 18491
+  },
+  {
+    "name": "pushserve",
+    "downloads": 18476
+  },
+  {
+    "name": "@procore-oss/backstage-plugin-announcements-backend",
+    "downloads": 18334
+  },
+  {
+    "name": "graphql2rest",
+    "downloads": 18326
+  },
+  {
+    "name": "@rushstack/lockfile-explorer",
+    "downloads": 18298
+  },
+  {
+    "name": "@wp-playground/cli",
+    "downloads": 18028
+  },
+  {
+    "name": "oas3-tools",
+    "downloads": 18008
+  },
+  {
+    "name": "@aliceo2/web-ui",
+    "downloads": 17959
+  },
+  {
+    "name": "firebase-tools-with-isolate",
+    "downloads": 17873
+  },
+  {
+    "name": "@squidcloud/local-backend",
+    "downloads": 17825
+  },
+  {
+    "name": "@balena/open-balena-api",
+    "downloads": 17783
+  },
+  {
+    "name": "@staticdeploy/app-config",
+    "downloads": 17713
+  },
+  {
+    "name": "@staticdeploy/mock-server",
+    "downloads": 17679
+  },
+  {
+    "name": "express-http-to-https",
+    "downloads": 17638
+  },
+  {
+    "name": "@skynetxbt/core",
+    "downloads": 17612
+  },
+  {
+    "name": "apostrophe",
+    "downloads": 17596
+  },
+  {
+    "name": "shins",
+    "downloads": 17488
+  },
+  {
+    "name": "@backstage/backend-dynamic-feature-service",
+    "downloads": 17315
+  },
+  {
+    "name": "@roadiehq/backstage-plugin-argo-cd-backend",
+    "downloads": 17187
+  },
+  {
+    "name": "gridsome",
+    "downloads": 17178
+  },
+  {
+    "name": "@medusajs/admin",
+    "downloads": 17076
+  },
+  {
+    "name": "postmark-cli",
+    "downloads": 17036
+  },
+  {
+    "name": "@midscene/web",
+    "downloads": 17010
+  },
+  {
+    "name": "@ionic/app-scripts",
+    "downloads": 16905
+  },
+  {
+    "name": "lineman",
+    "downloads": 16769
+  },
+  {
+    "name": "@spotify/backstage-plugin-insights-backend",
+    "downloads": 16740
+  },
+  {
+    "name": "@backstage-community/plugin-tech-radar-backend",
+    "downloads": 16645
+  },
+  {
+    "name": "@lucaapp/service-utils",
+    "downloads": 16623
+  },
+  {
+    "name": "mcp-server-kubernetes",
+    "downloads": 16554
+  },
+  {
+    "name": "openapi-to-graphql-cli",
+    "downloads": 16528
+  },
+  {
+    "name": "ws3-fca",
+    "downloads": 16332
+  },
+  {
+    "name": "@lwrjs/server",
+    "downloads": 16320
+  },
+  {
+    "name": "@amagaki/amagaki",
+    "downloads": 16193
+  },
+  {
+    "name": "zudoku",
+    "downloads": 16117
+  },
+  {
+    "name": "vpn_based_remote_access_system",
+    "downloads": 16064
+  },
+  {
+    "name": "fuse-box",
+    "downloads": 16053
+  },
+  {
+    "name": "oe-cqm-service",
+    "downloads": 16002
+  },
+  {
+    "name": "swagger-ui-watcher",
+    "downloads": 15979
+  },
+  {
+    "name": "oe-schematron-service",
+    "downloads": 15974
+  },
+  {
+    "name": "prisma-cli-core",
+    "downloads": 15932
+  },
+  {
+    "name": "zuul",
+    "downloads": 15920
+  },
+  {
+    "name": "tspec",
+    "downloads": 15541
+  },
+  {
+    "name": "@spotify/backstage-plugin-skill-exchange-backend",
+    "downloads": 15383
+  },
+  {
+    "name": "ltijs",
+    "downloads": 15369
+  },
+  {
+    "name": "apify-cli",
+    "downloads": 15335
+  },
+  {
+    "name": "@agentdeskai/browser-tools-server",
+    "downloads": 15233
+  },
+  {
+    "name": "sku",
+    "downloads": 15026
+  },
+  {
+    "name": "@brightspot/styleguide",
+    "downloads": 14934
+  },
+  {
+    "name": "@5minds/processcube_engine",
+    "downloads": 14926
+  },
+  {
+    "name": "@backstage-community/plugin-linguist-backend",
+    "downloads": 14777
+  },
+  {
+    "name": "twilio-run",
+    "downloads": 14567
+  },
+  {
+    "name": "@fwl/web",
+    "downloads": 14474
+  },
+  {
+    "name": "@backstage-community/plugin-copilot-backend",
+    "downloads": 14448
+  },
+  {
+    "name": "@tryghost/members-api",
+    "downloads": 14370
+  },
+  {
+    "name": "front-sdk",
+    "downloads": 14224
+  },
+  {
+    "name": "@backstage-community/plugin-rbac-backend",
+    "downloads": 14148
+  },
+  {
+    "name": "tm-nucleus",
+    "downloads": 14112
+  },
+  {
+    "name": "docma",
+    "downloads": 14101
+  },
+  {
+    "name": "@colyseus/tools",
+    "downloads": 13972
+  },
+  {
+    "name": "camouflage-server",
+    "downloads": 13922
+  },
+  {
+    "name": "@wong2/mcp-cli",
+    "downloads": 13867
+  },
+  {
+    "name": "@opengovsg/mockpass",
+    "downloads": 13783
+  },
+  {
+    "name": "bundle-buddy",
+    "downloads": 13752
+  },
+  {
+    "name": "@adobe/aio-cli-plugin-app-dev",
+    "downloads": 13739
+  },
+  {
+    "name": "@open-xchange/ui-middleware",
+    "downloads": 13639
+  },
+  {
+    "name": "@jsreport/jsreport-express",
+    "downloads": 13625
+  },
+  {
+    "name": "@a2a-js/sdk",
+    "downloads": 13587
+  },
+  {
+    "name": "relivestyle",
+    "downloads": 13452
+  },
+  {
+    "name": "@scullyio/scully",
+    "downloads": 13396
+  },
+  {
+    "name": "@lwrjs/dev-proxy-server",
+    "downloads": 13284
+  },
+  {
+    "name": "@asymmetrik/node-fhir-server-core",
+    "downloads": 13192
+  },
+  {
+    "name": "@benborla29/mcp-server-mysql",
+    "downloads": 13126
+  },
+  {
+    "name": "@alwaysmeticulous/replay-debugger-ui",
+    "downloads": 13078
+  },
+  {
+    "name": "html-reporter",
+    "downloads": 13046
+  },
+  {
+    "name": "@blinkk/root",
+    "downloads": 13014
+  },
+  {
+    "name": "@mdn/yari",
+    "downloads": 12881
+  },
+  {
+    "name": "apollo-server-cloud-functions",
+    "downloads": 12879
+  },
+  {
+    "name": "@patternfly/documentation-framework",
+    "downloads": 12840
+  },
+  {
+    "name": "@api3/airnode-node",
+    "downloads": 12628
+  },
+  {
+    "name": "@ceramicnetwork/cli",
+    "downloads": 12618
+  },
+  {
+    "name": "@balena/pinejs",
+    "downloads": 12615
+  },
+  {
+    "name": "@ceramicnetwork/ipfs-daemon",
+    "downloads": 12531
+  },
+  {
+    "name": "@atproto/xrpc-server",
+    "downloads": 12517
+  }
+]
