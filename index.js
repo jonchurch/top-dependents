@@ -3,7 +3,7 @@ const path = require('path');
 const counts = require('download-counts');
 
 const INPUT_FILE = path.resolve('./dependents.json');
-const OUTPUT_FILE = path.resolve('./top-express-dependents.json');
+const OUTPUT_FILE = path.resolve('./top-dependents.json');
 
 const dependents = JSON.parse(fs.readFileSync(INPUT_FILE, 'utf8'));
 const enriched = dependents.map(dep => {
