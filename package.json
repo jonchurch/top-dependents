@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "download-counts": "^2.20250715.0"
+    "download-counts": "^2.20251015.0"
   }
 }
