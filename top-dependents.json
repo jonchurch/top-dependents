@@ -1,2002 +1,2822 @@
 [
   {
     "name": "blue-tape",
-    "downloads": 168796
+    "downloads": 168796,
+    "version": "1.0.0"
   },
   {
     "name": "turndown-attendant",
-    "downloads": 21341
+    "downloads": 21341,
+    "version": "0.0.3"
   },
   {
     "name": "cpu-percent",
-    "downloads": 6895
+    "downloads": 6895,
+    "version": "2.0.1"
   },
   {
     "name": "@mapbox/geojson-merge",
-    "downloads": 6746
+    "downloads": 6746,
+    "version": "1.1.1"
   },
   {
     "name": "stylelint-test-rule-tape",
-    "downloads": 5873
+    "downloads": 5873,
+    "version": "0.2.0"
   },
   {
     "name": "eth-block-tracker-es5",
-    "downloads": 4488
+    "downloads": 4488,
+    "version": "2.3.2"
   },
   {
     "name": "ocular-dev-tools",
-    "downloads": 4225
+    "downloads": 4225,
+    "version": "0.3.1"
   },
   {
     "name": "stylelint-rule-tester",
-    "downloads": 4158
+    "downloads": 4158,
+    "version": "0.6.2"
   },
   {
     "name": "paidup-commerce-connect",
-    "downloads": 3380
+    "downloads": 3380,
+    "version": "0.20.9"
   },
   {
     "name": "tape-async",
-    "downloads": 3115
+    "downloads": 3115,
+    "version": "2.3.0"
   },
   {
     "name": "@vis.gl/dev-tools",
-    "downloads": 2792
+    "downloads": 2792,
+    "version": "1.0.0"
   },
   {
     "name": "react-component-template",
-    "downloads": 2638
+    "downloads": 2638,
+    "version": "0.1.10"
   },
   {
     "name": "gs1",
-    "downloads": 1957
+    "downloads": 1957,
+    "version": "1.0.2"
   },
   {
     "name": "grunt-tape",
-    "downloads": 1505
+    "downloads": 1505,
+    "version": "0.1.0"
   },
   {
     "name": "coffeetape",
-    "downloads": 1481
+    "downloads": 1481,
+    "version": "2.0.0"
   },
   {
     "name": "compare-at-paths",
-    "downloads": 1165
+    "downloads": 1165,
+    "version": "1.0.0"
   },
   {
     "name": "brisky-performance",
-    "downloads": 1131
+    "downloads": 1131,
+    "version": "1.4.2"
   },
   {
     "name": "ducktape",
-    "downloads": 1096
+    "downloads": 1096,
+    "version": "1.0.1"
   },
   {
     "name": "jsonschema-protobuf",
-    "downloads": 1075
+    "downloads": 1075,
+    "version": "1.0.2"
   },
   {
     "name": "rfc5987-value-chars",
-    "downloads": 1037
+    "downloads": 1037,
+    "version": "1.0.0"
   },
   {
     "name": "lingon",
-    "downloads": 898
+    "downloads": 898,
+    "version": "2.4.2"
   },
   {
     "name": "tap-status",
-    "downloads": 821
+    "downloads": 821,
+    "version": "1.0.1"
   },
   {
     "name": "mytoolkit",
-    "downloads": 710
+    "downloads": 710,
+    "version": "1.3.3"
   },
   {
     "name": "nodeunit-tape-compat",
-    "downloads": 612
+    "downloads": 612,
+    "version": "1.3.81"
   },
   {
     "name": "mos",
-    "downloads": 607
+    "downloads": 607,
+    "version": "1.3.1"
   },
   {
     "name": "eslint-import-resolver-ember",
-    "downloads": 578
+    "downloads": 578,
+    "version": "0.0.1"
   },
   {
     "name": "tape-expect",
-    "downloads": 554
+    "downloads": 554,
+    "version": "1.2.0"
   },
   {
     "name": "lossy-store",
-    "downloads": 531
+    "downloads": 531,
+    "version": "1.2.4"
   },
   {
     "name": "electrode-electrify",
-    "downloads": 524
+    "downloads": 524,
+    "version": "2.4.1"
   },
   {
     "name": "is-rtp",
-    "downloads": 507
+    "downloads": 507,
+    "version": "2.0.0"
   },
   {
     "name": "vigour-performance",
-    "downloads": 503
+    "downloads": 503,
+    "version": "1.3.1"
   },
   {
     "name": "rtc-signallercheck",
-    "downloads": 425
+    "downloads": 425,
+    "version": "1.2.1"
   },
   {
     "name": "tape-es",
-    "downloads": 417
+    "downloads": 417,
+    "version": "1.2.17"
   },
   {
     "name": "webrtc-utilities",
-    "downloads": 384
+    "downloads": 384,
+    "version": "1.0.10"
   },
   {
     "name": "junk-parser",
-    "downloads": 384
+    "downloads": 384,
+    "version": "1.0.4"
   },
   {
     "name": "eslint-config-textio-base",
-    "downloads": 383
+    "downloads": 383,
+    "version": "0.0.35"
   },
   {
     "name": "redis_wrapper",
-    "downloads": 373
+    "downloads": 373,
+    "version": "0.0.45"
   },
   {
     "name": "@dhis2/cli-utils",
-    "downloads": 373
+    "downloads": 373,
+    "version": "5.1.0"
   },
   {
     "name": "remix-plugin",
-    "downloads": 360
+    "downloads": 360,
+    "version": "0.0.1"
   },
   {
     "name": "date-range-array",
-    "downloads": 352
+    "downloads": 352,
+    "version": "2.1.0"
   },
   {
     "name": "@remix-project/remix-astwalker",
-    "downloads": 349
+    "downloads": 349,
+    "version": "0.0.98"
   },
   {
     "name": "ev3-api",
-    "downloads": 316
+    "downloads": 316,
+    "version": "0.1.35"
   },
   {
     "name": "@dhis2/cli-packages",
-    "downloads": 304
+    "downloads": 304,
+    "version": "2.0.2"
   },
   {
     "name": "tape-cup",
-    "downloads": 293
+    "downloads": 293,
+    "version": "4.7.1"
   },
   {
     "name": "eth-bin-to-ops",
-    "downloads": 285
+    "downloads": 285,
+    "version": "1.0.1"
   },
   {
     "name": "nalp",
-    "downloads": 281
+    "downloads": 281,
+    "version": "0.1.2"
   },
   {
     "name": "ping-pong-stream",
-    "downloads": 279
+    "downloads": 279,
+    "version": "1.0.0"
   },
   {
     "name": "ensnare",
-    "downloads": 278
+    "downloads": 278,
+    "version": "1.0.0"
   },
   {
     "name": "gl-conformance",
-    "downloads": 271
+    "downloads": 271,
+    "version": "2.0.9"
   },
   {
     "name": "ddry-mocha-tape",
-    "downloads": 268
+    "downloads": 268,
+    "version": "0.1.32"
   },
   {
     "name": "@magento/upward-spec",
-    "downloads": 232
+    "downloads": 232,
+    "version": "5.3.1"
   },
   {
     "name": "redux-listeners",
-    "downloads": 215
+    "downloads": 215,
+    "version": "0.4.1"
   },
   {
     "name": "@mapbox/geocoder-abbreviations",
-    "downloads": 211
+    "downloads": 211,
+    "version": "4.6.15"
   },
   {
     "name": "editor-widget",
-    "downloads": 204
+    "downloads": 204,
+    "version": "1.1.1"
   },
   {
     "name": "tool",
-    "downloads": 202
+    "downloads": 202,
+    "version": "21.0.0"
   },
   {
     "name": "@observablehq/tape",
-    "downloads": 195
+    "downloads": 195,
+    "version": "0.0.2"
   },
   {
     "name": "lambda-foundation",
-    "downloads": 179
+    "downloads": 179,
+    "version": "3.0.6"
   },
   {
     "name": "vhs-tape",
-    "downloads": 166
+    "downloads": 166,
+    "version": "3.3.1"
   },
   {
     "name": "test-anything",
-    "downloads": 165
+    "downloads": 165,
+    "version": "1.1.7"
   },
   {
     "name": "mapbox-data-team",
-    "downloads": 161
+    "downloads": 161,
+    "version": "1.4.11"
   },
   {
     "name": "node-ng",
-    "downloads": 146
+    "downloads": 146,
+    "version": "0.0.13"
   },
   {
     "name": "check-compose",
-    "downloads": 136
+    "downloads": 136,
+    "version": "5.1.0"
   },
   {
     "name": "magnolia-frontend-scripts",
-    "downloads": 134
+    "downloads": 134,
+    "version": "0.3.9"
   },
   {
     "name": "wasm",
-    "downloads": 129
+    "downloads": 129,
+    "version": "1.0.0"
   },
   {
     "name": "osrm.js",
-    "downloads": 124
+    "downloads": 124,
+    "version": "5.5.0"
   },
   {
     "name": "sparkdown",
-    "downloads": 123
+    "downloads": 123,
+    "version": "1.0.5"
   },
   {
     "name": "sodium-test",
-    "downloads": 121
+    "downloads": 121,
+    "version": "0.11.1"
   },
   {
     "name": "pokemon-go-node-api",
-    "downloads": 120
+    "downloads": 120,
+    "version": "1.4.0"
   },
   {
     "name": "tipsi-appium-helper",
-    "downloads": 118
+    "downloads": 118,
+    "version": "3.3.0"
   },
   {
     "name": "is-dtls",
-    "downloads": 116
+    "downloads": 116,
+    "version": "2.0.0"
   },
   {
     "name": "gear-contracts",
-    "downloads": 113
+    "downloads": 113,
+    "version": "0.0.10"
   },
   {
     "name": "@redsift/tape-reel",
-    "downloads": 104
+    "downloads": 104,
+    "version": "0.1.1"
   },
   {
     "name": "@mapbox/route-annotator",
-    "downloads": 99
+    "downloads": 99,
+    "version": "0.4.1"
   },
   {
     "name": "twintap",
-    "downloads": 96
+    "downloads": 96,
+    "version": "1.3.9"
   },
   {
     "name": "superlib",
-    "downloads": 94
+    "downloads": 94,
+    "version": "1.0.21"
   },
   {
     "name": "tags-system",
-    "downloads": 91
+    "downloads": 91,
+    "version": "1.1.7"
   },
   {
     "name": "test-common-wallet",
-    "downloads": 91
+    "downloads": 91,
+    "version": "1.3.1"
   },
   {
     "name": "blockcypher-unofficial",
-    "downloads": 90
+    "downloads": 90,
+    "version": "1.5.0"
   },
   {
     "name": "osrm-client-js",
-    "downloads": 87
+    "downloads": 87,
+    "version": "5.5.1"
   },
   {
     "name": "remix-core",
-    "downloads": 85
+    "downloads": 85,
+    "version": "0.0.8"
   },
   {
     "name": "servicebot",
-    "downloads": 85
+    "downloads": 85,
+    "version": "0.1.3"
   },
   {
     "name": "@author.io/karma-base",
-    "downloads": 85
+    "downloads": 85,
+    "version": "1.1.13"
   },
   {
     "name": "gridmap-format",
-    "downloads": 83
+    "downloads": 83,
+    "version": "1.0.22"
   },
   {
     "name": "csr-matrix",
-    "downloads": 82
+    "downloads": 82,
+    "version": "2.0.0"
   },
   {
     "name": "semantic-editor-js",
-    "downloads": 75
+    "downloads": 75,
+    "version": "0.0.10"
   },
   {
     "name": "@matrx/svelte-realtime-adapter-cosmos-db-temporal",
-    "downloads": 74
+    "downloads": 74,
+    "version": "0.6.0"
   },
   {
     "name": "@maxmil7/greenkeeper_mod",
-    "downloads": 73
+    "downloads": 73,
+    "version": "1.14.0"
   },
   {
     "name": "openpublish-state",
-    "downloads": 71
+    "downloads": 71,
+    "version": "2.4.0"
   },
   {
     "name": "tessed",
-    "downloads": 70
+    "downloads": 70,
+    "version": "2.2.0"
   },
   {
     "name": "@f/deep-equal",
-    "downloads": 68
+    "downloads": 68,
+    "version": "1.0.2"
   },
   {
     "name": "mozjpeg-stream",
-    "downloads": 67
+    "downloads": 67,
+    "version": "1.0.3"
   },
   {
     "name": "autofocus",
-    "downloads": 64
+    "downloads": 64,
+    "version": "1.2.3"
   },
   {
     "name": "simple-timeago",
-    "downloads": 60
+    "downloads": 60,
+    "version": "1.0.0"
   },
   {
     "name": "threebox-map",
-    "downloads": 59
+    "downloads": 59,
+    "version": "0.1.3"
   },
   {
     "name": "docxmerge",
-    "downloads": 59
+    "downloads": 59,
+    "version": "1.3.1"
   },
   {
     "name": "start-tape",
-    "downloads": 57
+    "downloads": 57,
+    "version": "0.2.0"
   },
   {
     "name": "tapava",
-    "downloads": 56
+    "downloads": 56,
+    "version": "2.3.0"
   },
   {
     "name": "bundbi",
-    "downloads": 55
+    "downloads": 55,
+    "version": "1.1.10"
   },
   {
     "name": "benchtap",
-    "downloads": 54
+    "downloads": 54,
+    "version": "1.0.1"
   },
   {
     "name": "sphere-product-type-export",
-    "downloads": 54
+    "downloads": 54,
+    "version": "1.0.0"
   },
   {
     "name": "@hatsa/log",
-    "downloads": 53
+    "downloads": 53,
+    "version": "1.0.9"
   },
   {
     "name": "zopf",
-    "downloads": 53
+    "downloads": 53,
+    "version": "7.0.0"
   },
   {
     "name": "@nwaltham/fmin",
-    "downloads": 53
+    "downloads": 53,
+    "version": "0.0.3"
   },
   {
     "name": "begin-functions",
-    "downloads": 51
+    "downloads": 51,
+    "version": "1.0.0"
   },
   {
     "name": "guidance-geojson",
-    "downloads": 50
+    "downloads": 50,
+    "version": "0.3.2"
   },
   {
     "name": "integration-tester",
-    "downloads": 50
+    "downloads": 50,
+    "version": "0.2.0"
   },
   {
     "name": "pg-people",
-    "downloads": 50
+    "downloads": 50,
+    "version": "0.9.3"
   },
   {
     "name": "nmos-ledger",
-    "downloads": 49
+    "downloads": 49,
+    "version": "1.0.18"
   },
   {
     "name": "abstract-scheduler",
-    "downloads": 49
+    "downloads": 49,
+    "version": "4.0.0"
   },
   {
     "name": "@mapbox/cardboard-upgrade",
-    "downloads": 49
+    "downloads": 49,
+    "version": "1.1.1"
   },
   {
     "name": "@mirkodamnjanovic/avsthreebox",
-    "downloads": 48
+    "downloads": 48,
+    "version": "4.0.0"
   },
   {
     "name": "css-reurl",
-    "downloads": 48
+    "downloads": 48,
+    "version": "2.0.4"
   },
   {
     "name": "express-common-wallet",
-    "downloads": 47
+    "downloads": 47,
+    "version": "0.0.2"
   },
   {
     "name": "pg-challenges",
-    "downloads": 46
+    "downloads": 46,
+    "version": "4.1.2"
   },
   {
     "name": "lobot",
-    "downloads": 46
+    "downloads": 46,
+    "version": "0.1.23"
   },
   {
     "name": "2d-polygon-contains-polygon",
-    "downloads": 45
+    "downloads": 45,
+    "version": "1.0.0"
   },
   {
     "name": "blockcast-state-engine",
-    "downloads": 44
+    "downloads": 44,
+    "version": "1.6.0"
   },
   {
     "name": "@bb-cli/lib-test-helpers",
-    "downloads": 43
+    "downloads": 43,
+    "version": "1.0.9"
   },
   {
     "name": "glint-adapter-fs",
-    "downloads": 42
+    "downloads": 42,
+    "version": "1.0.5"
   },
   {
     "name": "broken-link",
-    "downloads": 42
+    "downloads": 42,
+    "version": "1.0.1"
   },
   {
     "name": "line-segment-distance",
-    "downloads": 41
+    "downloads": 41,
+    "version": "1.0.1"
   },
   {
     "name": "public-domain-nypl-captures",
-    "downloads": 41
+    "downloads": 41,
+    "version": "1.1.0"
   },
   {
     "name": "ezy",
-    "downloads": 40
+    "downloads": 40,
+    "version": "0.0.16"
   },
   {
     "name": "dat-server",
-    "downloads": 40
+    "downloads": 40,
+    "version": "1.0.2"
   },
   {
     "name": "@dhis2/packages",
-    "downloads": 39
+    "downloads": 39,
+    "version": "1.3.0"
   },
   {
     "name": "guidance-sim",
-    "downloads": 39
+    "downloads": 39,
+    "version": "0.1.7"
   },
   {
     "name": "tape-browser",
-    "downloads": 38
+    "downloads": 38,
+    "version": "4.13.0"
   },
   {
     "name": "blockr-unofficial",
-    "downloads": 37
+    "downloads": 37,
+    "version": "1.2.5"
   },
   {
     "name": "prequelize",
-    "downloads": 37
+    "downloads": 37,
+    "version": "3.0.0"
   },
   {
     "name": "wps",
-    "downloads": 36
+    "downloads": 36,
+    "version": "0.0.6"
   },
   {
     "name": "feliz.test",
-    "downloads": 36
+    "downloads": 36,
+    "version": "0.1.1"
   },
   {
     "name": "@shedali/mdgen",
-    "downloads": 36
+    "downloads": 36,
+    "version": "0.4.10"
   },
   {
     "name": "test-flumelog",
-    "downloads": 35
+    "downloads": 35,
+    "version": "1.0.1"
   },
   {
     "name": "remix-astwalker",
-    "downloads": 35
+    "downloads": 35,
+    "version": "0.0.25"
   },
   {
     "name": "tape-around",
-    "downloads": 35
+    "downloads": 35,
+    "version": "2.2.0"
   },
   {
     "name": "device-mqtt",
-    "downloads": 35
+    "downloads": 35,
+    "version": "1.0.10"
   },
   {
     "name": "browser-tap",
-    "downloads": 35
+    "downloads": 35,
+    "version": "0.0.1"
   },
   {
     "name": "guidance-replay",
-    "downloads": 34
+    "downloads": 34,
+    "version": "0.1.4"
   },
   {
     "name": "eslint-config-sift-react",
-    "downloads": 34
+    "downloads": 34,
+    "version": "1.0.21"
   },
   {
     "name": "lumber-nominal-size-table",
-    "downloads": 33
+    "downloads": 33,
+    "version": "1.0.0"
   },
   {
     "name": "@reactual/whatis",
-    "downloads": 33
+    "downloads": 33,
+    "version": "0.0.4"
   },
   {
     "name": "geojson-stream-merge",
-    "downloads": 33
+    "downloads": 33,
+    "version": "3.1.0"
   },
   {
     "name": "dynamorse-test",
-    "downloads": 33
+    "downloads": 33,
+    "version": "0.2.1"
   },
   {
     "name": "eslint-config-sift-base",
-    "downloads": 33
+    "downloads": 33,
+    "version": "1.0.3"
   },
   {
     "name": "@antodip/timeseries",
-    "downloads": 32
+    "downloads": 32,
+    "version": "0.0.4"
   },
   {
     "name": "estktap",
-    "downloads": 32
+    "downloads": 32,
+    "version": "0.1.6"
   },
   {
     "name": "dbwrkr",
-    "downloads": 31
+    "downloads": 31,
+    "version": "0.0.11"
   },
   {
     "name": "@ocd-sg/ui",
-    "downloads": 31
+    "downloads": 31,
+    "version": "0.2.14"
   },
   {
     "name": "tape-co",
-    "downloads": 31
+    "downloads": 31,
+    "version": "1.0.1"
   },
   {
     "name": "bitcoind-coinbase-test",
-    "downloads": 30
+    "downloads": 30,
+    "version": "1.1.12"
   },
   {
     "name": "two-captcha",
-    "downloads": 29
+    "downloads": 29,
+    "version": "1.1.2"
   },
   {
     "name": "irc-json-rpc-infura",
-    "downloads": 29
+    "downloads": 29,
+    "version": "0.1.1"
   },
   {
     "name": "js-function-string",
-    "downloads": 29
+    "downloads": 29,
+    "version": "1.0.0"
   },
   {
     "name": "tapenet",
-    "downloads": 28
+    "downloads": 28,
+    "version": "1.4.0"
   },
   {
     "name": "location-aware-hybrid-cloud",
-    "downloads": 28
+    "downloads": 28,
+    "version": "1.1.1"
   },
   {
     "name": "@solidgoldpig/fb-specification",
-    "downloads": 28
+    "downloads": 28,
+    "version": "0.3.5"
   },
   {
     "name": "aquatap",
-    "downloads": 28
+    "downloads": 28,
+    "version": "1.0.1"
   },
   {
     "name": "irregular",
-    "downloads": 28
+    "downloads": 28,
+    "version": "0.1.1"
   },
   {
     "name": "the-story-base",
-    "downloads": 28
+    "downloads": 28,
+    "version": "3.1.8"
   },
   {
     "name": "simple-updatable-website",
-    "downloads": 28
+    "downloads": 28,
+    "version": "1.1.3"
   },
   {
     "name": "scene-screenshot",
-    "downloads": 27
+    "downloads": 27,
+    "version": "1.0.2"
   },
   {
     "name": "read-dbf",
-    "downloads": 27
+    "downloads": 27,
+    "version": "1.1.0"
   },
   {
     "name": "dev-env-status-check",
-    "downloads": 27
+    "downloads": 27,
+    "version": "1.0.0"
   },
   {
     "name": "rotan",
-    "downloads": 27
+    "downloads": 27,
+    "version": "2.0.0"
   },
   {
     "name": "gulp-config-apsis",
-    "downloads": 26
+    "downloads": 26,
+    "version": "2.3.3"
   },
   {
     "name": "ddry-tape",
-    "downloads": 26
+    "downloads": 26,
+    "version": "4.6.3"
   },
   {
     "name": "scotch-tape",
-    "downloads": 26
+    "downloads": 26,
+    "version": "0.2.1"
   },
   {
     "name": "@hatsa/elasticsearch",
-    "downloads": 26
+    "downloads": 26,
+    "version": "1.0.8"
   },
   {
     "name": "test-secret-handshake",
-    "downloads": 26
+    "downloads": 26,
+    "version": "1.0.2"
   },
   {
     "name": "ctx-dashed-line",
-    "downloads": 26
+    "downloads": 26,
+    "version": "1.0.0"
   },
   {
     "name": "thot-tester",
-    "downloads": 26
+    "downloads": 26,
+    "version": "1.1.2"
   },
   {
     "name": "deployment-tools",
-    "downloads": 26
+    "downloads": 26,
+    "version": "1.3.0"
   },
   {
     "name": "mysql2gomodel",
-    "downloads": 24
+    "downloads": 24,
+    "version": "1.0.4"
   },
   {
     "name": "highlight-javascript-syntax",
-    "downloads": 24
+    "downloads": 24,
+    "version": "1.1.0"
   },
   {
     "name": "metainject2",
-    "downloads": 24
+    "downloads": 24,
+    "version": "2.1.6"
   },
   {
     "name": "react-css-modules-webpack-example",
-    "downloads": 24
+    "downloads": 24,
+    "version": "1.0.0"
   },
   {
     "name": "@shaynekasai/namegen",
-    "downloads": 24
+    "downloads": 24,
+    "version": "0.2.0"
   },
   {
     "name": "bayeux",
-    "downloads": 24
+    "downloads": 24,
+    "version": "0.9.3"
   },
   {
     "name": "dynamic-k8pi",
-    "downloads": 24
+    "downloads": 24,
+    "version": "0.4.0"
   },
   {
     "name": "literate-programming-cli-test",
-    "downloads": 24
+    "downloads": 24,
+    "version": "0.5.1"
   },
   {
     "name": "hashpipe",
-    "downloads": 23
+    "downloads": 23,
+    "version": "0.0.10"
   },
   {
     "name": "righto-tape",
-    "downloads": 23
+    "downloads": 23,
+    "version": "1.1.0"
   },
   {
     "name": "cityhall",
-    "downloads": 23
+    "downloads": 23,
+    "version": "0.1.1"
   },
   {
     "name": "geojson-tidy",
-    "downloads": 22
+    "downloads": 22,
+    "version": "1.0.1"
   },
   {
     "name": "redux-es5",
-    "downloads": 21
+    "downloads": 21,
+    "version": "1.1.3"
   },
   {
     "name": "eth-json-rpc-infura-patch",
-    "downloads": 21
+    "downloads": 21,
+    "version": "3.1.3"
   },
   {
     "name": "K_Tasks",
-    "downloads": 21
+    "downloads": 21,
+    "version": "0.8.1"
   },
   {
     "name": "godsend",
-    "downloads": 21
+    "downloads": 21,
+    "version": "0.5.9"
   },
   {
     "name": "pagerduty-incidents",
-    "downloads": 21
+    "downloads": 21,
+    "version": "0.0.3"
   },
   {
     "name": "r-squared",
-    "downloads": 21
+    "downloads": 21,
+    "version": "0.0.0"
   },
   {
     "name": "wallyjs",
-    "downloads": 20
+    "downloads": 20,
+    "version": "0.0.0"
   },
   {
     "name": "molecular-mass-chemical-calculator",
-    "downloads": 20
+    "downloads": 20,
+    "version": "0.0.1"
   },
   {
     "name": "@hn3000/swagger-example-generator",
-    "downloads": 20
+    "downloads": 20,
+    "version": "0.2.2"
   },
   {
     "name": "random-access-test",
-    "downloads": 20
+    "downloads": 20,
+    "version": "1.0.0"
   },
   {
     "name": "code_snippet",
-    "downloads": 20
+    "downloads": 20,
+    "version": "0.9.9"
   },
   {
     "name": "unique-columns",
-    "downloads": 20
+    "downloads": 20,
+    "version": "1.0.2"
   },
   {
     "name": "block-sequence-compliance-tests",
-    "downloads": 20
+    "downloads": 20,
+    "version": "2.0.1"
   },
   {
     "name": "retrial",
-    "downloads": 20
+    "downloads": 20,
+    "version": "1.0.1"
   },
   {
     "name": "ray-aabb-slab",
-    "downloads": 19
+    "downloads": 19,
+    "version": "1.0.1"
   },
   {
     "name": "tip-to-comment-client",
-    "downloads": 19
+    "downloads": 19,
+    "version": "1.0.5"
   },
   {
     "name": "table-turn",
-    "downloads": 19
+    "downloads": 19,
+    "version": "0.0.8"
   },
   {
     "name": "glint-i18n",
-    "downloads": 19
+    "downloads": 19,
+    "version": "1.0.4"
   },
   {
     "name": "quzsc-web-base",
-    "downloads": 19
+    "downloads": 19,
+    "version": "0.1.5"
   },
   {
     "name": "cnamify",
-    "downloads": 18
+    "downloads": 18,
+    "version": "1.0.0"
   },
   {
     "name": "slf-js",
-    "downloads": 18
+    "downloads": 18,
+    "version": "0.0.7"
   },
   {
     "name": "syncing_protocol",
-    "downloads": 18
+    "downloads": 18,
+    "version": "0.0.13"
   },
   {
     "name": "@nhz.io/coffeetape",
-    "downloads": 18
+    "downloads": 18,
+    "version": "2.0.2"
   },
   {
     "name": "fuzz-lightyear",
-    "downloads": 18
+    "downloads": 18,
+    "version": "2.0.1"
   },
   {
     "name": "json-api-entitizer",
-    "downloads": 18
+    "downloads": 18,
+    "version": "1.0.4"
   },
   {
     "name": "sise-cweb-restful-api-tests",
-    "downloads": 18
+    "downloads": 18,
+    "version": "0.3.0"
   },
   {
     "name": "sof-block-tracker",
-    "downloads": 17
+    "downloads": 17,
+    "version": "3.0.1"
   },
   {
     "name": "glint-util",
-    "downloads": 17
+    "downloads": 17,
+    "version": "1.0.2"
   },
   {
     "name": "story-json-to-video",
-    "downloads": 17
+    "downloads": 17,
+    "version": "0.1.0"
   },
   {
     "name": "@pixelshift.ai/gl-conformance",
-    "downloads": 17
+    "downloads": 17,
+    "version": "0.0.8"
   },
   {
     "name": "ruder-ots",
-    "downloads": 17
+    "downloads": 17,
+    "version": "1.1.0"
   },
   {
     "name": "aggrandizer",
-    "downloads": 17
+    "downloads": 17,
+    "version": "1.2.7"
   },
   {
     "name": "switch-slash",
-    "downloads": 17
+    "downloads": 17,
+    "version": "1.0.0"
   },
   {
     "name": "fask",
-    "downloads": 17
+    "downloads": 17,
+    "version": "0.3.3"
   },
   {
     "name": "my-two-bits-server",
-    "downloads": 16
+    "downloads": 16,
+    "version": "1.3.0"
   },
   {
     "name": "neutrino-preset-tape",
-    "downloads": 16
+    "downloads": 16,
+    "version": "1.0.0"
   },
   {
     "name": "mdcss-theme-github-iscor",
-    "downloads": 16
+    "downloads": 16,
+    "version": "2.3.4"
   },
   {
     "name": "ca_common",
-    "downloads": 16
+    "downloads": 16,
+    "version": "0.1.7"
   },
   {
     "name": "tidy-dev-tools",
-    "downloads": 16
+    "downloads": 16,
+    "version": "1.0.5"
   },
   {
     "name": "export-heap-reports",
-    "downloads": 15
+    "downloads": 15,
+    "version": "1.1.1"
   },
   {
     "name": "google-sheet",
-    "downloads": 15
+    "downloads": 15,
+    "version": "1.1.1"
   },
   {
     "name": "bitcoin-test-util",
-    "downloads": 15
+    "downloads": 15,
+    "version": "1.0.4"
   },
   {
     "name": "mqemitter-p2p",
-    "downloads": 15
+    "downloads": 15,
+    "version": "0.1.0"
   },
   {
     "name": "@bes/shot",
-    "downloads": 15
+    "downloads": 15,
+    "version": "1.5.0"
   },
   {
     "name": "gherkin-checker",
-    "downloads": 15
+    "downloads": 15,
+    "version": "1.0.5"
   },
   {
     "name": "ckan-search",
-    "downloads": 15
+    "downloads": 15,
+    "version": "1.0.1"
   },
   {
     "name": "sql-to-gorm",
-    "downloads": 15
+    "downloads": 15,
+    "version": "1.0.6"
   },
   {
     "name": "blockchaininfo-unofficial",
-    "downloads": 14
+    "downloads": 14,
+    "version": "1.1.2"
   },
   {
     "name": "name-maker",
-    "downloads": 14
+    "downloads": 14,
+    "version": "1.1.1"
   },
   {
     "name": "node-seneca-base",
-    "downloads": 14
+    "downloads": 14,
+    "version": "1.0.0"
   },
   {
     "name": "vdux-local",
-    "downloads": 14
+    "downloads": 14,
+    "version": "0.2.0"
   },
   {
     "name": "miguelito-express-couch-crud-promise-test",
-    "downloads": 14
+    "downloads": 14,
+    "version": "1.0.3"
   },
   {
     "name": "@exponent/gl-conformance",
-    "downloads": 14
+    "downloads": 14,
+    "version": "2.0.8"
   },
   {
     "name": "plat-tv-maza",
-    "downloads": 14
+    "downloads": 14,
+    "version": "1.0.0"
   },
   {
     "name": "libsmc",
-    "downloads": 14
+    "downloads": 14,
+    "version": "1.0.0"
   },
   {
     "name": "cuke-tap",
-    "downloads": 13
+    "downloads": 13,
+    "version": "2.0.2"
   },
   {
     "name": "aragonite-form-validator",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.1.2"
   },
   {
     "name": "bloomsky-prometheus-exporter",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.2.0"
   },
   {
     "name": "@stamp/check-compose",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.0.3"
   },
   {
     "name": "@darkever/assetservice",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.2.0"
   },
   {
     "name": "taichi-tape",
-    "downloads": 13
+    "downloads": 13,
+    "version": "0.1.0"
   },
   {
     "name": "biteasy-unofficial",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.2.6"
   },
   {
     "name": "nosaj-md-parser",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.3.0"
   },
   {
     "name": "head-filter-urls",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.0.0"
   },
   {
     "name": "nodejs-maven-demo",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.1.7"
   },
   {
     "name": "express-crud-promise-test",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.2.1"
   },
   {
     "name": "node-stone",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.0.3"
   },
   {
     "name": "export-di",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.0.3"
   },
   {
     "name": "react-bootstrap3-components",
-    "downloads": 13
+    "downloads": 13,
+    "version": "2.9.0"
   },
   {
     "name": "sparql-table-spec",
-    "downloads": 13
+    "downloads": 13,
+    "version": "1.0.8"
   },
   {
     "name": "arxiv-to-xml",
-    "downloads": 12
+    "downloads": 12,
+    "version": "0.1.0"
   },
   {
     "name": "rethink-table",
-    "downloads": 12
+    "downloads": 12,
+    "version": "0.0.7"
   },
   {
     "name": "test-level",
-    "downloads": 12
+    "downloads": 12,
+    "version": "0.0.3"
   },
   {
     "name": "merino",
-    "downloads": 12
+    "downloads": 12,
+    "version": "1.0.6"
   },
   {
     "name": "json-io-promised",
-    "downloads": 12
+    "downloads": 12,
+    "version": "1.0.2"
   },
   {
     "name": "butter-test-provider",
-    "downloads": 12
+    "downloads": 12,
+    "version": "0.0.5"
   },
   {
     "name": "osmreplication",
-    "downloads": 12
+    "downloads": 12,
+    "version": "1.0.2"
   },
   {
     "name": "is-turn",
-    "downloads": 12
+    "downloads": 12,
+    "version": "2.0.0"
   },
   {
     "name": "@mutant-ws/tape-ui",
-    "downloads": 12
+    "downloads": 12,
+    "version": "0.9.0"
   },
   {
     "name": "lolcryption",
-    "downloads": 12
+    "downloads": 12,
+    "version": "0.1.4"
   },
   {
     "name": "get-abs-path",
-    "downloads": 12
+    "downloads": 12,
+    "version": "1.1.0"
   },
   {
     "name": "immudate",
-    "downloads": 11
+    "downloads": 11,
+    "version": "0.0.5"
   },
   {
     "name": "ubiq-json-rpc-shokku",
-    "downloads": 11
+    "downloads": 11,
+    "version": "1.0.0"
   },
   {
     "name": "full-stack_exam",
-    "downloads": 11
+    "downloads": 11,
+    "version": "0.7.3"
   },
   {
     "name": "bs-tape",
-    "downloads": 11
+    "downloads": 11,
+    "version": "0.3.0"
   },
   {
     "name": "@passoa/tap",
-    "downloads": 11
+    "downloads": 11,
+    "version": "1.0.4"
   },
   {
     "name": "elb-metrics",
-    "downloads": 11
+    "downloads": 11,
+    "version": "2.5.0"
   },
   {
     "name": "webrtc-utilities-test",
-    "downloads": 11
+    "downloads": 11,
+    "version": "0.0.7"
   },
   {
     "name": "retap",
-    "downloads": 11
+    "downloads": 11,
+    "version": "2.0.0"
   },
   {
     "name": "webpack-jsdom-tape-plugin",
-    "downloads": 11
+    "downloads": 11,
+    "version": "1.4.0"
   },
   {
     "name": "threebox-dw",
-    "downloads": 11
+    "downloads": 11,
+    "version": "0.2.0"
   },
   {
     "name": "chain-unofficial",
-    "downloads": 11
+    "downloads": 11,
+    "version": "1.4.0"
   },
   {
     "name": "daff-stream",
-    "downloads": 11
+    "downloads": 11,
+    "version": "1.0.1"
   },
   {
     "name": "motherbase",
-    "downloads": 11
+    "downloads": 11,
+    "version": "1.0.2"
   },
   {
     "name": "openapi-utils-path-methods",
-    "downloads": 11
+    "downloads": 11,
+    "version": "0.0.1"
   },
   {
     "name": "fileable-iterator",
-    "downloads": 11
+    "downloads": 11,
+    "version": "0.0.3"
   },
   {
     "name": "emojib",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.1"
   },
   {
     "name": "sitespeed.webscanner",
-    "downloads": 10
+    "downloads": 10,
+    "version": "5.3.6"
   },
   {
     "name": "extract-summary",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.1.0"
   },
   {
     "name": "compare-structure",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.1"
   },
   {
     "name": "wire-src",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.2.0"
   },
   {
     "name": "@d323/deps-bundle-dev",
-    "downloads": 10
+    "downloads": 10,
+    "version": "0.0.8"
   },
   {
     "name": "flip-tape",
-    "downloads": 10
+    "downloads": 10,
+    "version": "4.1.2"
   },
   {
     "name": "oreon-scraper",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.3"
   },
   {
     "name": "eth-needlepoint",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.4.0"
   },
   {
     "name": "eslint-config-sift-nodejs",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.1"
   },
   {
     "name": "ssmdocs",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.1"
   },
   {
     "name": "@remy/promise-throttle",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.0"
   },
   {
     "name": "stripe-server",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.2"
   },
   {
     "name": "geoscape-predictive",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.3"
   },
   {
     "name": "rockit",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.0"
   },
   {
     "name": "srtr",
-    "downloads": 10
+    "downloads": 10,
+    "version": "1.0.3"
   },
   {
     "name": "@mapbox/pagerduty-incidents",
-    "downloads": 10
+    "downloads": 10,
+    "version": "0.1.0"
   },
   {
     "name": "tape-watch2",
-    "downloads": 10
+    "downloads": 10,
+    "version": "0.1.2"
   },
   {
     "name": "carma-tap-webpack",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.0.5"
   },
   {
     "name": "mrm-preset-tayloredtechnology",
-    "downloads": 9
+    "downloads": 9,
+    "version": "0.4.0"
   },
   {
     "name": "tapef",
-    "downloads": 9
+    "downloads": 9,
+    "version": "0.0.1"
   },
   {
     "name": "main-dir",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.0.2"
   },
   {
     "name": "@mesg/orchestrator",
-    "downloads": 9
+    "downloads": 9,
+    "version": "0.1.3"
   },
   {
     "name": "necessitatibusvoluptatem",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.1.0"
   },
   {
     "name": "react-tape",
-    "downloads": 9
+    "downloads": 9,
+    "version": "15.5.0"
   },
   {
     "name": "jade-reporting",
-    "downloads": 9
+    "downloads": 9,
+    "version": "0.1.1"
   },
   {
     "name": "segio",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.0.1"
   },
   {
     "name": "@yaas/bacon-cipher",
-    "downloads": 9
+    "downloads": 9,
+    "version": "2.2.0"
   },
   {
     "name": "hlc-experimental",
-    "downloads": 9
+    "downloads": 9,
+    "version": "0.0.1"
   },
   {
     "name": "pokemon-go-node-api-local-taku",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.3.1"
   },
   {
     "name": "ds-utils",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.1.1"
   },
   {
     "name": "sitespeed",
-    "downloads": 9
+    "downloads": 9,
+    "version": "5.3.4"
   },
   {
     "name": "tock-reporter",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.2.0"
   },
   {
     "name": "keypath-observer",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.0.1"
   },
   {
     "name": "namespaceify",
-    "downloads": 9
+    "downloads": 9,
+    "version": "1.0.5"
   },
   {
     "name": "accountdown-parser",
-    "downloads": 9
+    "downloads": 9,
+    "version": "0.2.0"
   },
   {
     "name": "injectmeta",
-    "downloads": 8
+    "downloads": 8,
+    "version": "2.0.1"
   },
   {
     "name": "cloudcoreo-jsrunner-commons-omurbek",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.2.4"
   },
   {
     "name": "diligenza",
-    "downloads": 8
+    "downloads": 8,
+    "version": "0.3.0"
   },
   {
     "name": "tweet-packer",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.2"
   },
   {
     "name": "pg-compose",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.1"
   },
   {
     "name": "@mapbox/teamrepo",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.0"
   },
   {
     "name": "@digitaslbiparis/sitespeed.io",
-    "downloads": 8
+    "downloads": 8,
+    "version": "6.3.3"
   },
   {
     "name": "heartless-soy",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.4"
   },
   {
     "name": "@detools/appium-helper",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.0"
   },
   {
     "name": "debby",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.5"
   },
   {
     "name": "tape-pencil",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.1"
   },
   {
     "name": "stream-race",
-    "downloads": 8
+    "downloads": 8,
+    "version": "1.0.1"
   },
   {
     "name": "fly-tape",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.1.0"
   },
   {
     "name": "@sliv/mobx-map-socketio-sync",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.0.1"
   },
   {
     "name": "sof-json-rpc-middleware",
-    "downloads": 7
+    "downloads": 7,
+    "version": "1.6.0"
   },
   {
     "name": "irc-json-rpc-middleware",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.0.1"
   },
   {
     "name": "threeboxly",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.2.0"
   },
   {
     "name": "dir-html-path",
-    "downloads": 7
+    "downloads": 7,
+    "version": "1.0.0"
   },
   {
     "name": "asbestos",
-    "downloads": 7
+    "downloads": 7,
+    "version": "1.0.1"
   },
   {
     "name": "ray-disk-intersection",
-    "downloads": 7
+    "downloads": 7,
+    "version": "1.0.1"
   },
   {
     "name": "get-avg-pixel",
-    "downloads": 7
+    "downloads": 7,
+    "version": "1.0.0"
   },
   {
     "name": "dynamosm-importer",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.0.3"
   },
   {
     "name": "pg-insights",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.2.4"
   },
   {
     "name": "earltape",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.2.0"
   },
   {
     "name": "beamengine",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.0.13"
   },
   {
     "name": "tape-enzyme",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.0.3"
   },
   {
     "name": "mock-npm-install",
-    "downloads": 7
+    "downloads": 7,
+    "version": "1.0.4"
   },
   {
     "name": "npm-typed-logger-example-s",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.1.88"
   },
   {
     "name": "selfless",
-    "downloads": 7
+    "downloads": 7,
+    "version": "0.0.1"
   },
   {
     "name": "sof-json-rpc-infura",
-    "downloads": 7
+    "downloads": 7,
+    "version": "3.2.0"
   },
   {
     "name": "@noygal/deps-dev",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.3"
   },
   {
     "name": "css-top-import",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.2"
   },
   {
     "name": "threeboxnpm",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.2.0"
   },
   {
     "name": "mapfilter-db",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.2.3"
   },
   {
     "name": "@frenz/ducktape",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.0"
   },
   {
     "name": "nomics-client",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.1"
   },
   {
     "name": "throttle-obj-stream",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.0"
   },
   {
     "name": "@jelica-rado/upward-spec",
-    "downloads": 6
+    "downloads": 6,
+    "version": "5.2.1"
   },
   {
     "name": "pull-generator",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.0"
   },
   {
     "name": "davidhq-util",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.1"
   },
   {
     "name": "frametest-tap-runner-harness",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.0.18"
   },
   {
     "name": "jade-doc-faucet",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.7.0"
   },
   {
     "name": "css-sibling",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.1"
   },
   {
     "name": "emarscript-acceptance",
-    "downloads": 6
+    "downloads": 6,
+    "version": "2.0.1"
   },
   {
     "name": "cjsxtape",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.0.1"
   },
   {
     "name": "nw-nerdlayoutjs",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.1.0"
   },
   {
     "name": "dw_threebox",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.2.0"
   },
   {
     "name": "node-fullstack",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.5.5"
   },
   {
     "name": "png-svg",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.0.2"
   },
   {
     "name": "@hatsa/test",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.2"
   },
   {
     "name": "easyid",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.0"
   },
   {
     "name": "@tayloredtechnology/oneflow",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.1.2"
   },
   {
     "name": "rand-perm",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.1.0"
   },
   {
     "name": "pure-utils",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.6"
   },
   {
     "name": "dead-link",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.0"
   },
   {
     "name": "blocpkg",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.0.2"
   },
   {
     "name": "duct-tape",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.0.1"
   },
   {
     "name": "get-center-pixel",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.0"
   },
   {
     "name": "seq-call",
-    "downloads": 6
+    "downloads": 6,
+    "version": "0.1.4"
   },
   {
     "name": "shisel",
-    "downloads": 6
+    "downloads": 6,
+    "version": "1.0.0"
   },
   {
     "name": "slush-webpack",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.2"
   },
   {
     "name": "tang-union-find",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.0"
   },
   {
     "name": "sql-protobuf",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "hypercore-dag",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.0"
   },
   {
     "name": "sequasync",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.2"
   },
   {
     "name": "sheetify-sibling",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "dport",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.2"
   },
   {
     "name": "sentimeter",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.1.0"
   },
   {
     "name": "final-arango",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.9.10"
   },
   {
     "name": "storyshots-tape",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.2"
   },
   {
     "name": "netcopy",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "full-select",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.7"
   },
   {
     "name": "suitape",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.6"
   },
   {
     "name": "downpayments",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.1"
   },
   {
     "name": "pure-zip-tool",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.3"
   },
   {
     "name": "@kba/vfs-util-url",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.1.0"
   },
   {
     "name": "react-router-webpack-example",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "pug-doc-markdown",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "light-tm",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.2.2"
   },
   {
     "name": "ned-test",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.1"
   },
   {
     "name": "requests-test",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "magic-tape",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.1.0"
   },
   {
     "name": "@ristostevcev/bs-tape",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.2.0"
   },
   {
     "name": "staticfragment",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.1.0"
   },
   {
     "name": "threebox-map-ext",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.2.0"
   },
   {
     "name": "stackfire-tools",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.3"
   },
   {
     "name": "bjoy-crud-promise-test",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "dir-abs-path",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.3"
   },
   {
     "name": "pug-doc-faucet",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.0"
   },
   {
     "name": "deep-snip",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.1"
   },
   {
     "name": "supertest-declarative",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.6.1"
   },
   {
     "name": "ifeerv",
-    "downloads": 5
+    "downloads": 5,
+    "version": "1.0.0"
   },
   {
     "name": "@sethvincent/example-github-actions-node",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.0.5"
   },
   {
     "name": "ottr",
-    "downloads": 5
+    "downloads": 5,
+    "version": "0.1.2"
   },
   {
     "name": "cs-in-js",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.0.1"
   },
   {
     "name": "botsapp-republished",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.1.0"
   },
   {
     "name": "concat-process-str",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.0.2"
   },
   {
     "name": "create-react-webpack-app",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.2"
   },
   {
     "name": "redcross-data-team",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.4.14"
   },
   {
     "name": "dat-performance",
-    "downloads": 4
+    "downloads": 4,
+    "version": "2.0.1"
   },
   {
     "name": "mapfilter-server",
-    "downloads": 4
+    "downloads": 4,
+    "version": "2.0.2"
   },
   {
     "name": "map-assign",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.0"
   },
   {
     "name": "redux-effects-sessionstorage",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.1.0"
   },
   {
     "name": "scope-of-works",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.0.3"
   },
   {
     "name": "@michael1011/eth-block-tracker",
-    "downloads": 4
+    "downloads": 4,
+    "version": "3.0.0"
   },
   {
     "name": "segment-aabb",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.0"
   },
   {
     "name": "formula-upper",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.0"
   },
   {
     "name": "fileable",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.0.24"
   },
   {
     "name": "@yr/remote-test-connector",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.1"
   },
   {
     "name": "doctap",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.0.2"
   },
   {
     "name": "red-tape",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.0.2"
   },
   {
     "name": "fp-validation",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.0.5"
   },
   {
     "name": "reference-fuzzer",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.0"
   },
   {
     "name": "rgu",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.2"
   },
   {
     "name": "fly-jade",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.1"
   },
   {
     "name": "irslackd",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.2"
   },
   {
     "name": "script-plaintext",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.2"
   },
   {
     "name": "lintalot",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.1.0"
   },
   {
     "name": "d3-utils",
-    "downloads": 4
+    "downloads": 4,
+    "version": "2.0.1"
   },
   {
     "name": "utools",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.2"
   },
   {
     "name": "nanoconstruct",
-    "downloads": 4
+    "downloads": 4,
+    "version": "0.3.0"
   },
   {
     "name": "tmpdir-polyfill",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.0"
   },
   {
     "name": "metalsmith-csv",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.0.2"
   },
   {
     "name": "react-router-redux-example",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.1.0"
   },
   {
     "name": "cardboard-upgrade",
-    "downloads": 4
+    "downloads": 4,
+    "version": "1.1.0"
   },
   {
     "name": "formula-lower",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.0"
   },
   {
     "name": "webgram-logins",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.0.3"
   },
   {
     "name": "redd",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.2.0"
   },
   {
     "name": "glint-static",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.1"
   },
   {
     "name": "electron-tape",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.0"
   },
   {
     "name": "webu-provider-engine",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.1.0"
   },
   {
     "name": "icedtape",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.0"
   },
   {
     "name": "tabe",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.4"
   },
   {
     "name": "oncall",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.0"
   },
   {
     "name": "reactify-css",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.0.0"
   },
   {
     "name": "samidare",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.0.1"
   },
   {
     "name": "atdd",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.0.1"
   },
   {
     "name": "fast-vixel",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.0"
   },
   {
     "name": "eth-needlework",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.2.0"
   },
   {
     "name": "route_annotator",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.0.5"
   },
   {
     "name": "cthom-express-crud-promises-test",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.2"
   },
   {
     "name": "vap-bin-to-ops",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.1"
   },
   {
     "name": "bs-sentia-tape",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.2.1"
   },
   {
     "name": "@mkieselmann/geojson-dedupe",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.0"
   },
   {
     "name": "web-app-tools",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.0.6"
   },
   {
     "name": "mnao-tester",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.3.2"
   },
   {
     "name": "weektime",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.0.0"
   },
   {
     "name": "react-component-tape-util",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.2"
   },
   {
     "name": "stylelint-assert-equality-tape",
-    "downloads": 3
+    "downloads": 3,
+    "version": "0.1.1"
   },
   {
     "name": "format-json-log",
-    "downloads": 3
+    "downloads": 3,
+    "version": "1.0.4"
   },
   {
     "name": "mezzaninetest",
-    "downloads": 3
+    "downloads": 3,
+    "version": "2.0.0"
   },
   {
     "name": "@zippie/eth-block-tracker",
-    "downloads": 3
+    "downloads": 3,
+    "version": "3.0.2"
   },
   {
     "name": "tock_reporter",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "ray-cone-intersection",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "asciizer",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.0.2"
   },
   {
     "name": "enum-all",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "ascii-tree-array",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.1.1"
   },
   {
     "name": "recur-fn",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.1"
   },
   {
     "name": "object-pipe",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "tap-spec-dom",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.2.0"
   },
   {
     "name": "token-controller",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.0.2"
   },
   {
     "name": "stepstate",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.0.1"
   },
   {
     "name": "jsonschema-v54-constant",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.0.1"
   },
   {
     "name": "dpactum-hyperledger-client",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.0.3"
   },
   {
     "name": "query-preperator",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.0.1"
   },
   {
     "name": "create-test-package",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.1"
   },
   {
     "name": "wxlog",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "planetary-navigator",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "assumendamolestiae",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.1.2"
   },
   {
     "name": "geotools-test",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "alonzo.js",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.1.0"
   },
   {
     "name": "updated-sharedstreets-speeds",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.4"
   },
   {
     "name": "event-emitter-bootleg",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "ruder-notify-queue",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.1.0"
   },
   {
     "name": "infolis-web",
-    "downloads": 2
+    "downloads": 2,
+    "version": "0.0.2"
   },
   {
     "name": "emitter-trace",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.0"
   },
   {
     "name": "tapered.js",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.1"
   },
   {
     "name": "alan-utils",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.1.0"
   },
   {
     "name": "tape-for-immutable",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.3"
   },
   {
     "name": "tidytest",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.1"
   },
   {
     "name": "jsonschema-protobuf2",
-    "downloads": 2
+    "downloads": 2,
+    "version": "1.0.2"
   },
   {
     "name": "str2color",
-    "downloads": 1
+    "downloads": 1,
+    "version": "0.1.1"
   },
   {
     "name": "cycle-scripts-ts-simple",
-    "downloads": 1
+    "downloads": 1,
+    "version": "0.2.1"
   },
   {
     "name": "pure-utils2",
-    "downloads": 1
+    "downloads": 1,
+    "version": "2.0.1"
+  },
+  {
+    "name": "dnsify",
+    "downloads": 1,
+    "version": "0.5.1"
+  },
+  {
+    "name": "@terryweiss/cosmostream",
+    "downloads": 1,
+    "version": "1.3.2"
+  },
+  {
+    "name": "async-iter-watch",
+    "downloads": 1,
+    "version": "1.0.0"
+  },
+  {
+    "name": "fileable-cli",
+    "downloads": 1,
+    "version": "0.0.17"
+  },
+  {
+    "name": "flash-dance",
+    "downloads": 1,
+    "version": "1.0.0"
+  },
+  {
+    "name": "tape-dispenser",
+    "downloads": 1,
+    "version": "0.2.0"
+  },
+  {
+    "name": "jade-doc-markdown",
+    "downloads": 1,
+    "version": "0.10.0"
+  },
+  {
+    "name": "ez-type",
+    "downloads": 1,
+    "version": "1.0.0"
+  },
+  {
+    "name": "manner-tape",
+    "downloads": 1,
+    "version": "2.1.8"
+  },
+  {
+    "name": "sise-restful-api-tests",
+    "downloads": 1,
+    "version": "0.2.3"
+  },
+  {
+    "name": "formula-find",
+    "downloads": 1,
+    "version": "1.0.0"
+  },
+  {
+    "name": "redux-listeners-qkreltms",
+    "downloads": 1,
+    "version": "0.4.3"
+  },
+  {
+    "name": "fpl-current-season",
+    "downloads": 1,
+    "version": "1.0.1"
+  },
+  {
+    "name": "tape-testcheck",
+    "downloads": 1,
+    "version": "1.1.1"
+  },
+  {
+    "name": "tape-universal",
+    "downloads": 1,
+    "version": "4.7.0"
+  },
+  {
+    "name": "seedy-random",
+    "downloads": 1,
+    "version": "1.0.0"
+  },
+  {
+    "name": "ductape",
+    "downloads": 1,
+    "version": "0.0.0"
+  },
+  {
+    "name": "twitter-search-and-reply",
+    "downloads": 1,
+    "version": "1.0.0"
+  },
+  {
+    "name": "watsco-react-ui",
+    "downloads": 1,
+    "version": "1.0.5"
+  },
+  {
+    "name": "eslint-config-sift-reactnative",
+    "downloads": 1,
+    "version": "1.0.1"
+  },
+  {
+    "name": "mooya",
+    "downloads": 1,
+    "version": "0.0.1"
+  },
+  {
+    "name": "@vinnieascripter/randomnum",
+    "downloads": 1,
+    "version": "1.1.5"
+  },
+  {
+    "name": "simple-peer-chord",
+    "downloads": 1,
+    "version": "0.0.1"
+  },
+  {
+    "name": "@tayloredtechnology/autoloader",
+    "downloads": 1,
+    "version": "0.2.11"
+  },
+  {
+    "name": "sbc-registrar",
+    "downloads": 1,
+    "version": "0.0.2"
+  },
+  {
+    "name": "async-iter-dedupe",
+    "downloads": 0,
+    "version": "1.0.0"
+  },
+  {
+    "name": "ganache-core>2.13.1-alpha.1>eth-block-tracker",
+    "downloads": 0,
+    "version": "3.0.1"
+  },
+  {
+    "name": "ganache-core>2.13.1-alpha.4>eth-block-tracker",
+    "downloads": 0,
+    "version": "3.0.1"
+  },
+  {
+    "name": "@krvikash35/ffi>2.2.1>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "multi_test",
+    "downloads": 0,
+    "version": "0.0.6"
+  },
+  {
+    "name": "ganache-core>2.13.1-alpha.1>eth-json-rpc-middleware",
+    "downloads": 0,
+    "version": "1.6.0"
+  },
+  {
+    "name": "asf-tools",
+    "downloads": 0,
+    "version": "0.8.58"
+  },
+  {
+    "name": "popplonode>1.8.0>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "ganache-core>2.13.1-beta.0>eth-block-tracker",
+    "downloads": 0,
+    "version": "3.0.1"
+  },
+  {
+    "name": "flux-json-to-three",
+    "downloads": 0,
+    "version": "0.31.8"
+  },
+  {
+    "name": "lambda_pattern",
+    "downloads": 0,
+    "version": "0.0.31"
+  },
+  {
+    "name": "popplonode>1.8.1>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "@blnlpa/asf-tools",
+    "downloads": 0,
+    "version": "1.0.1"
+  },
+  {
+    "name": "sqlite3>3.1.10-alpha>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "jm-blank-scraper",
+    "downloads": 0,
+    "version": "1.0.11"
+  },
+  {
+    "name": "ganache-core>2.13.1-beta.0>eth-json-rpc-middleware",
+    "downloads": 0,
+    "version": "1.6.0"
+  },
+  {
+    "name": "qminer>8.6.1>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "ganache-core>2.13.1-alpha.4>eth-json-rpc-middleware",
+    "downloads": 0,
+    "version": "1.6.0"
+  },
+  {
+    "name": "flux-three-plugins",
+    "downloads": 0,
+    "version": "0.9.0"
+  },
+  {
+    "name": "inhabit-modules-tests",
+    "downloads": 0,
+    "version": "1.4.0"
+  },
+  {
+    "name": "popplonode>1.7.2>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "riks>2.1.4>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "ganache-core>2.13.1-alpha.0>eth-json-rpc-middleware",
+    "downloads": 0,
+    "version": "1.6.0"
+  },
+  {
+    "name": "camaro>1.2.0>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "sqlite3>3.1.10>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "eslint-config-meaningsciences",
+    "downloads": 0,
+    "version": "1.0.1"
+  },
+  {
+    "name": "anki",
+    "downloads": 0,
+    "version": "1.0.0"
+  },
+  {
+    "name": "camaro>1.3.0>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "ganache-core>2.13.1-alpha.0>eth-block-tracker",
+    "downloads": 0,
+    "version": "3.0.1"
+  },
+  {
+    "name": "kazana>8.0.1>expand-template",
+    "downloads": 0,
+    "version": "1.0.1"
+  },
+  {
+    "name": "very-simple-promise",
+    "downloads": 0,
+    "version": "1.0.0"
+  },
+  {
+    "name": "@krvikash35/ref>1.3.6>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "kazana>8.0.0>expand-template",
+    "downloads": 0,
+    "version": "1.0.1"
+  },
+  {
+    "name": "riks>2.3.0>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "cafe-webpack-plugin",
+    "downloads": 0,
+    "version": "9.0.6"
+  },
+  {
+    "name": "@mongox/mxjs-tx",
+    "downloads": 0,
+    "version": "1.0.6"
+  },
+  {
+    "name": "riks>2.2.0>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "sqlite3>3.1.11>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
+  },
+  {
+    "name": "riks>2.1.3>node-pre-gyp",
+    "downloads": 0,
+    "version": "0.6.37"
   }
 ]

@@ -9,10 +9,11 @@ const dependents = JSON.parse(fs.readFileSync(INPUT_FILE, 'utf8'));
 const enriched = dependents.map(dep => {
   const name = dep.package_name || dep.name;
   const downloads = counts[name] || 0;
-  return { name, downloads };
+  return { name, downloads, version: dep.pkg_version };
 });
 
 enriched.sort((a, b) => b.downloads - a.downloads);
 
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(enriched.slice(0, 500), null, 2));
+// fs.writeFileSync(OUTPUT_FILE, JSON.stringify(enriched.slice(0, 500), null, 2));
+fs.writeFileSync(OUTPUT_FILE, JSON.stringify(enriched, null, 2));
 console.log(`✅ Done: wrote ${enriched.length} packages`);
